@@ -1,0 +1,127 @@
+{
+  "target": "per-history scaffold lambda100 removed energy",
+  "scaffold_coefficient": 100.0,
+  "tolerance": 0.01,
+  "metric": "1 - constrained memory projected energy / baseline SAME-subspace energy",
+  "excluded": [
+    "Mixer",
+    "PCA"
+  ],
+  "conditions": [
+    "scaffold",
+    "active_random1",
+    "active_random2"
+  ],
+  "cases": [
+    {
+      "condition": 0,
+      "short": "resnet18",
+      "dataset": "cifar10",
+      "source": "results/cifar10_confirmation/target_order2131/artifacts/order2131_seed170.pt",
+      "order": 2131,
+      "seed": 170
+    },
+    {
+      "condition": 0,
+      "short": "resnet18",
+      "dataset": "cifar10",
+      "source": "results/cifar10_confirmation/target_order2131/artifacts/order2131_seed171.pt",
+      "order": 2131,
+      "seed": 171
+    },
+    {
+      "condition": 0,
+      "short": "resnet18",
+      "dataset": "cifar10",
+      "source": "results/cifar10_confirmation/target_order2137/artifacts/order2137_seed170.pt",
+      "order": 2137,
+      "seed": 170
+    },
+    {
+      "condition": 0,
+      "short": "resnet18",
+      "dataset": "cifar10",
+      "source": "results/cifar10_confirmation/target_order2137/artifacts/order2137_seed171.pt",
+      "order": 2137,
+      "seed": 171
+    },
+    {
+      "condition": 0,
+      "short": "resnet18",
+      "dataset": "cifar10",
+      "source": "results/cifar10_confirmation/target_order2141/artifacts/order2141_seed170.pt",
+      "order": 2141,
+      "seed": 170
+    },
+    {
+      "condition": 0,
+      "short": "resnet18",
+      "dataset": "cifar10",
+      "source": "results/cifar10_confirmation/target_order2141/artifacts/order2141_seed171.pt",
+      "order": 2141,
+      "seed": 171
+    },
+    {
+      "condition": 4,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar10",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2131/artifacts/order2131_seed170.pt",
+      "order": 2131,
+      "seed": 170
+    },
+    {
+      "condition": 4,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar10",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2131/artifacts/order2131_seed171.pt",
+      "order": 2131,
+      "seed": 171
+    },
+    {
+      "condition": 4,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar10",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2137/artifacts/order2137_seed170.pt",
+      "order": 2137,
+      "seed": 170
+    },
+    {
+      "condition": 4,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar10",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2137/artifacts/order2137_seed171.pt",
+      "order": 2137,
+      "seed": 171
+    },
+    {
+      "condition": 4,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar10",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2141/artifacts/order2141_seed170.pt",
+      "order": 2141,
+      "seed": 170
+    },
+    {
+      "condition": 4,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar10",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2141/artifacts/order2141_seed171.pt",
+      "order": 2141,
+      "seed": 171
+    }
+  ],
+  "histories": 12,
+  "comparisons": 36,
+  "run_minutes": 45,
+  "rest_minutes": 15,
+  "polling": "before each training/evaluation batch, CUDA synchronized on rest entry",
+  "fixed_basis": "original paper ranks; active random baseline energy matched to scaffold within each history",
+  "selection": "memory-only target calibration; no accuracy-based selection",
+  "max_trials": 24,
+  "maximum_coefficient": 1000.0,
+  "source_hashes": {
+    "scripts/cifar10_lambda100_energy_matched_queue.py": "708cba517742e961c49b600b50e29d15873c9cc86eca1697039f52e3306426ae",
+    "scripts/relative90_worker.py": "066fbd358e9140dda35ad1f41360764b03123ecce575eec2b2324df14fbc695d",
+    "scripts/all_model_causal.py": "beaf9ad7d7b85c3d09d502c1ca0b76a8f9522c2ac515afcf9cd30b6e8d71359f"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "model": "ResNet-18",
+  "dataset": "CIFAR-10",
+  "rank": 8,
+  "tasks": {
+    "A": [
+      4,
+      6
+    ],
+    "BX": [
+      9,
+      8
+    ],
+    "BY": [
+      7,
+      0
+    ],
+    "C": [
+      2,
+      1
+    ],
+    "D": [
+      3,
+      5
+    ]
+  },
+  "sequence_X": [
+    "A",
+    "BX",
+    "C",
+    "D"
+  ],
+  "sequence_Y": [
+    "A",
+    "BY",
+    "C",
+    "D"
+  ],
+  "fit_seeds": [
+    220,
+    221,
+    222,
+    223,
+    224,
+    225
+  ],
+  "test_seeds": [
+    230,
+    231,
+    232,
+    233,
+    234,
+    235
+  ],
+  "epochs_per_task": 5,
+  "training_images_per_class": 450,
+  "definition": "Each scaffold pools six rank-8 centered 1->2 drift bases from estimation runs, then retains top eight eigenvectors of the mean projector. Separate X/Y pools; no test run enters fitting.",
+  "anchors": "Identical 500 first-task training images for all bases, 100 disjoint first-task held-out images for test drift.",
+  "initial_state": "results/resnet_temporal_dimension/cifar10/sources/artifacts/order2003_seed160.pt",
+  "initial_state_sha256": "06c4ae81ff8a0d4502b8c6de64e83061b06a0f2fb352621de6f8a21071740313",
+  "replay": "500 images; task 2 replays A, task 3 replays A, task 4 replays A+C. Branch-specific task-2 classes excluded from subsequent replay to isolate their stored effects.",
+  "output_classes": "Task 1: A; task 2: actual A+BX or A+BY; common tasks 3 and 4: identical all-ten-class output competition.",
+  "optimizer": "AdamW lr 0.0003 wd 0.05, reset each task; AMP init scale 128, zero skips required.",
+  "matching": "Common A trained once per pair from same complete initialization. Tasks 3/4 have identical image, augmentation, label and replay streams checked by SHA-256.",
+  "scope": "Controlled content intervention, not standard all-old-class replay. Source runs stop after fitting stage 2; test runs complete all four tasks. One fixed class partition; six paired test seeds.",
+  "statistics": "Complete 2x2 coverage per later task; paired own-minus-cross contrasts. 10000 paired test-seed bootstrap draws conditional on fitted scaffolds. Separate 2000 paired source bootstrap draws for scaffold similarity.",
+  "status": "training_complete"
+}

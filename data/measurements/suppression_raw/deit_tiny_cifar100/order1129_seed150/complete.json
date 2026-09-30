@@ -1,0 +1,11 @@
+{
+  "complete": true,
+  "branches": 10,
+  "condition": 3,
+  "short": "deit_tiny",
+  "dataset": "cifar100",
+  "source": "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1129/artifacts/order1129_seed150.pt",
+  "order": 1129,
+  "seed": 150,
+  "mode": "suppress"
+}

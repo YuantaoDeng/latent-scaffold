@@ -1,0 +1,143 @@
+{
+  "complete_histories": 6,
+  "expected_histories": 6,
+  "status": "complete",
+  "primary": "Final first-task accuracy, scaffold suppression minus mean random suppression, coefficient10",
+  "limitations": "Three orders/two seeds; same coefficient is not equal absolute suppression; one model/dataset; no amplification test.",
+  "contrasts": [
+    {
+      "coefficient": 1,
+      "metric": "first_accuracy",
+      "mean": 0.004999995231628418,
+      "ci95": [
+        -0.0191666583220164,
+        0.029166648785273235
+      ],
+      "positive_runs": 3,
+      "negative_runs": 3
+    },
+    {
+      "coefficient": 1,
+      "metric": "old_accuracy",
+      "mean": -0.0033333351214726767,
+      "ci95": [
+        -0.015625014901161194,
+        0.005833347638448079
+      ],
+      "positive_runs": 2,
+      "negative_runs": 3
+    },
+    {
+      "coefficient": 1,
+      "metric": "new_accuracy",
+      "mean": -0.030833338697751362,
+      "ci95": [
+        -0.04666666189829508,
+        -0.019999980926513672
+      ],
+      "positive_runs": 0,
+      "negative_runs": 6
+    },
+    {
+      "coefficient": 1,
+      "metric": "first_total_energy",
+      "mean": -7.673947433914854,
+      "ci95": [
+        -8.406615524341854,
+        -6.602192488622646
+      ],
+      "positive_runs": 0,
+      "negative_runs": 6
+    },
+    {
+      "coefficient": 10,
+      "metric": "first_accuracy",
+      "mean": -0.0008333325386047363,
+      "ci95": [
+        -0.04499998688697815,
+        0.030833323796590168
+      ],
+      "positive_runs": 4,
+      "negative_runs": 2
+    },
+    {
+      "coefficient": 10,
+      "metric": "old_accuracy",
+      "mean": -0.00854166845480601,
+      "ci95": [
+        -0.028541659315427143,
+        0.009375005960464478
+      ],
+      "positive_runs": 2,
+      "negative_runs": 4
+    },
+    {
+      "coefficient": 10,
+      "metric": "new_accuracy",
+      "mean": -0.0966666837533315,
+      "ci95": [
+        -0.13750002781550089,
+        -0.050000011920928955
+      ],
+      "positive_runs": 0,
+      "negative_runs": 6
+    },
+    {
+      "coefficient": 10,
+      "metric": "first_total_energy",
+      "mean": -6.652386198438144,
+      "ci95": [
+        -7.4390346869116515,
+        -5.555197561333422
+      ],
+      "positive_runs": 0,
+      "negative_runs": 6
+    },
+    {
+      "coefficient": 100,
+      "metric": "first_accuracy",
+      "mean": 0.01666666567325592,
+      "ci95": [
+        -0.00916669269402822,
+        0.04000002145767212
+      ],
+      "positive_runs": 4,
+      "negative_runs": 2
+    },
+    {
+      "coefficient": 100,
+      "metric": "old_accuracy",
+      "mean": -0.004374990860621135,
+      "ci95": [
+        -0.016041661302248638,
+        0.007500022649765015
+      ],
+      "positive_runs": 2,
+      "negative_runs": 4
+    },
+    {
+      "coefficient": 100,
+      "metric": "new_accuracy",
+      "mean": -0.06833333770434062,
+      "ci95": [
+        -0.07833331823348999,
+        -0.06000002225240072
+      ],
+      "positive_runs": 0,
+      "negative_runs": 6
+    },
+    {
+      "coefficient": 100,
+      "metric": "first_total_energy",
+      "mean": 0.21020101860899545,
+      "ci95": [
+        -0.763957770213142,
+        1.1952929817756213
+      ],
+      "positive_runs": 4,
+      "negative_runs": 2
+    }
+  ],
+  "primary_supported": false,
+  "interpretation": "The prespecified replication does not establish greater first-task impairment from scaffold suppression."
+}

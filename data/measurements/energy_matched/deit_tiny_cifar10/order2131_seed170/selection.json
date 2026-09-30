@@ -1,0 +1,77 @@
+[
+  {
+    "model": "deit_tiny",
+    "dataset": "cifar10",
+    "order": 2131,
+    "seed": 170,
+    "condition": "scaffold",
+    "target": 0.9821135556972732,
+    "coefficient": 100.0,
+    "dose": 0.9821135556972732,
+    "path": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/scaffold_100.csv",
+    "matched": true
+  },
+  {
+    "model": "deit_tiny",
+    "dataset": "cifar10",
+    "order": 2131,
+    "seed": 170,
+    "condition": "active_random1",
+    "target": 0.9821135521193968,
+    "coefficient": 10.0,
+    "dose": 0.976779967878681,
+    "path": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/active_random1_10.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/baseline_0.csv"
+      },
+      {
+        "coefficient": 1.0,
+        "dose": 0.9394807455210031,
+        "path": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/active_random1_1.csv"
+      },
+      {
+        "coefficient": 10.0,
+        "dose": 0.976779967878681,
+        "path": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/active_random1_10.csv"
+      }
+    ]
+  },
+  {
+    "model": "deit_tiny",
+    "dataset": "cifar10",
+    "order": 2131,
+    "seed": 170,
+    "condition": "active_random2",
+    "target": 0.9821135544498718,
+    "coefficient": 100.0,
+    "dose": 0.9826138174971785,
+    "path": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/active_random2_100.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/baseline_0.csv"
+      },
+      {
+        "coefficient": 1.0,
+        "dose": 0.9461429798555873,
+        "path": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/active_random2_1.csv"
+      },
+      {
+        "coefficient": 10.0,
+        "dose": 0.9718449568292037,
+        "path": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/active_random2_10.csv"
+      },
+      {
+        "coefficient": 100.0,
+        "dose": 0.9826138174971785,
+        "path": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/active_random2_100.csv"
+      }
+    ]
+  }
+]

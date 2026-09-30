@@ -1,0 +1,87 @@
+{
+  "seeds": [
+    150,
+    151
+  ],
+  "rank": 8,
+  "random_controls": 128,
+  "max_spectrum_error": 1e-05,
+  "svd_threshold": 1e-07,
+  "continual_method": "er",
+  "residual_pca_ranks": [
+    8,
+    32,
+    64
+  ],
+  "epochs": 5,
+  "train_per_class": 450,
+  "probe_per_class": 50,
+  "memory": 500,
+  "batch_size": 64,
+  "lr": 0.0003,
+  "der_alpha": 0.5,
+  "order_seed": 1123,
+  "model": "resnet18",
+  "pretrained": true,
+  "data": "data",
+  "output": "results/confirmatory/hf_target_order1123",
+  "force": false,
+  "order": [
+    [
+      2,
+      17,
+      64,
+      49,
+      58,
+      34,
+      45,
+      76,
+      43,
+      7
+    ],
+    [
+      60,
+      48,
+      16,
+      67,
+      9,
+      81,
+      52,
+      10,
+      46,
+      66
+    ],
+    [
+      88,
+      99,
+      51,
+      4,
+      75,
+      35,
+      89,
+      57,
+      20,
+      19
+    ],
+    [
+      3,
+      59,
+      79,
+      61,
+      36,
+      54,
+      0,
+      1,
+      32,
+      95
+    ]
+  ],
+  "device": "cuda",
+  "torch": "2.13.0+cu130",
+  "timm": "1.0.29",
+  "status": "complete",
+  "completed_seeds": [
+    150,
+    151
+  ]
+}

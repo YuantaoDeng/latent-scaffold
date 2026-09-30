@@ -1,0 +1,12 @@
+[
+  {
+    "source": "output/task_accuracy_tables/baseline_cell_details.json",
+    "bundled": "data/baseline_accuracy_cells.json",
+    "sha256": "2e246bc7effe9356cb644cd54b17ac3e16c871e3c68053853de86d5e93c23e0e"
+  },
+  {
+    "source": "results/revision_20260913/accuracy/task_accuracy_matrix.csv",
+    "bundled": "data/task_accuracy_matrix.csv",
+    "sha256": "645b646e97be9a55c5cd29e4a23a34aa38c6bfac97aaf5b84c5010a7f920d61e"
+  }
+]

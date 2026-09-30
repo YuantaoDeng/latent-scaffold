@@ -1,0 +1,66 @@
+[
+  {
+    "path": "results/final_rank_rule/resnet/cifar10/rank8/evaluation.json",
+    "sha256": "5bf22a8a9d5349bc0db46355c08f67f9b5db57ebb7af1a8633a1827d07ce76e4"
+  },
+  {
+    "path": "results/final_rank_rule/resnet/cifar10/rank8/geometry.json",
+    "sha256": "be2cd7e846043ba7b4c4d40287ed987369ff3f24708c3c5f5bad0cf8e1291e61"
+  },
+  {
+    "path": "results/final_rank_rule/resnet/cifar100/rank8/evaluation.json",
+    "sha256": "162c4b1ed7eb769be3b86773cb6b553d42e29530986edd2f9b946384379a768b"
+  },
+  {
+    "path": "results/final_rank_rule/resnet/cifar100/rank8/geometry.json",
+    "sha256": "c5912e15b63a6479c25dfcdcf13851117d4e46a7836218b65583e55f1f996199"
+  },
+  {
+    "path": "results/final_rank_rule/deit/cifar10/rank8/evaluation.json",
+    "sha256": "2d82180c9317f1a9debc8d83ac3c232efb4d02486d4a1e7732cce7389a4abc77"
+  },
+  {
+    "path": "results/final_rank_rule/deit/cifar10/rank8/geometry.json",
+    "sha256": "a91199b476cc43ce981cb7f2e353f11e23d4dea45bcfcca68ea44577a89fb141"
+  },
+  {
+    "path": "results/deit_rank20_existing/cifar100/rank20/evaluation.json",
+    "sha256": "2204346409592c2f07d63ec936b65d71679a5b6a6b85f49508a869a3e4322385"
+  },
+  {
+    "path": "results/deit_pca_dimension/cifar100/rank20/geometry.json",
+    "sha256": "c7c97700e12f1343ce7611180109438e7fe03ea5bcd72aa6f5c69607a1a4e79b"
+  },
+  {
+    "path": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/rank24/evaluation.json",
+    "sha256": "e4135347989d82034316be14e23324c040c1048e6ba45fafa72e2f2e4bba8d8a"
+  },
+  {
+    "path": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/rank24/geometry.json",
+    "sha256": "c57d33264bae935bc579076dc474712d142ab626dcec85268b93a86e01e83d6f"
+  },
+  {
+    "path": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/rank8/evaluation.json",
+    "sha256": "e50372615a2a94cd7f06ed8fd564cbdb6182b1e061189295efd0b3bab06b04aa"
+  },
+  {
+    "path": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/rank8/geometry.json",
+    "sha256": "f0b9f452b0743e42a646ce687904c21f1210cd3781f79ce9db55df3e08b81797"
+  },
+  {
+    "path": "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/rank8/evaluation.json",
+    "sha256": "45f7c318aee129b16d7a69fad48de078409798acd11243c2e739d4b1039fe87e"
+  },
+  {
+    "path": "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/rank8/geometry.json",
+    "sha256": "cddb4c5a4ace95e2f083542cf9f9b319f888fe8a907adae5f8ee663d1e6f3cb8"
+  },
+  {
+    "path": "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/rank8/evaluation.json",
+    "sha256": "f2336dd6abe740a10242cad64a303c84c808da76689e935485c913c4dc826724"
+  },
+  {
+    "path": "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/rank8/geometry.json",
+    "sha256": "65e42dbbeb71a5bbda0e85785eb8ea5e837bcb692a48ab14d476b201611ec810"
+  }
+]

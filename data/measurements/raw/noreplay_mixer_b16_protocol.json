@@ -1,0 +1,64 @@
+{
+  "model": "MLP-Mixer-B/16",
+  "dataset": "CIFAR-10",
+  "tasks": 5,
+  "classes_per_task": 2,
+  "replay": false,
+  "memory_images": 0,
+  "training_images_per_class": 450,
+  "epochs": 5,
+  "current_batch_size": 64,
+  "updates_per_task": 75,
+  "optimizer": "AdamW lr=0.0003 wd=0.05; reset per task; zero skipped steps",
+  "scaffold_rank": 8,
+  "rank_selection": "Fixed original manuscript rank, never selected on new test outcomes",
+  "initial_state": "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/sources/artifacts/order2003_seed160.pt",
+  "initial_state_index": 0,
+  "initialization": "Identical full pretrained initial state across all histories",
+  "anchors": "500 first-task training images for fitting, 100 disjoint first-task images for testing; anchors are never replayed",
+  "source_orders": [
+    2003,
+    2011,
+    2017
+  ],
+  "source_seeds": [
+    160,
+    161
+  ],
+  "target_orders": [
+    2101,
+    2111,
+    2129,
+    2131,
+    2137,
+    2141
+  ],
+  "target_seeds": [
+    170,
+    171
+  ],
+  "update_positions": [
+    2,
+    38,
+    73
+  ],
+  "update_tasks": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "comparison_scope": "Same task orders, data counts and epochs as paper; no-replay batch64 gives75 updates vs replay145 after task1. No pure replay-only causal contrast.",
+  "statistics": "Hierarchical order/run bootstrap conditional on fitted scaffold; shared training content across source/test",
+  "status": "complete",
+  "model_name": "mixer_b16_224.goog_in21k_ft_in1k",
+  "short": "mixer_b16",
+  "feature_dimension": 768,
+  "replay_predictors": "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/rank8/predictors.pt",
+  "head_weight": "head.weight",
+  "head_bias": "head.bias",
+  "amp": true,
+  "activation_recomputation": true,
+  "precision": "AMP with initial scale128",
+  "state_storage": "Lossless byte-plane integer-delta; use lossless_checkpoint.load; bitwise roundtrip checked"
+}

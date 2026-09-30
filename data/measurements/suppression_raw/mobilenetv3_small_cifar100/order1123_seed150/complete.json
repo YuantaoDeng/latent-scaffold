@@ -1,0 +1,11 @@
+{
+  "complete": true,
+  "branches": 10,
+  "condition": 5,
+  "short": "mobilenetv3_small",
+  "dataset": "cifar100",
+  "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1123/artifacts/order1123_seed150.pt",
+  "order": 1123,
+  "seed": 150,
+  "mode": "suppress"
+}

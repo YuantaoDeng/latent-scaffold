@@ -1,0 +1,10 @@
+{
+  "complete": true,
+  "source_networks_per_scaffold": 6,
+  "test_pairs": 6,
+  "common_task_streams_exact": true,
+  "source_test_seeds_disjoint": true,
+  "rank": 8,
+  "projection_identity_max_error": 1.2512396558645912e-16,
+  "test_drift_fields": 24
+}

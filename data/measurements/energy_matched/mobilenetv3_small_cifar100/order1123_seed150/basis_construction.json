@@ -1,0 +1,19 @@
+{
+  "baseline_total_energy": 727.1669588284174,
+  "scaffold_energy": 19.649795216509798,
+  "rank": 8,
+  "source": "unconstrained final-task OLD TRAINING memory drift only",
+  "retrospective_control": true,
+  "controls": {
+    "active_random1": {
+      "alpha": 0.09398032401078282,
+      "baseline_energy": 19.649795193593423,
+      "scaffold_overlap": 0.01016309205442667
+    },
+    "active_random2": {
+      "alpha": 0.09646460996033923,
+      "baseline_energy": 19.64979525557276,
+      "scaffold_overlap": 0.009326419793069363
+    }
+  }
+}

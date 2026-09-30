@@ -1,0 +1,116 @@
+{
+  "selected": 8,
+  "k": 8,
+  "r": 8,
+  "rule": "smallest rank >= 8 with positive mean held-out estimation-order coverage gain over pooled representation PCA",
+  "evaluated_selection_ranks": [
+    8,
+    32
+  ],
+  "source_selection": "results/deit_cifar10_dimension/selection_folds.csv",
+  "source_selection_sha256": "92ebbc568d52f1c08eb9f05f69d83a178bc080124a76ba7e6bc99b7a4877e61f",
+  "response_draws": 16,
+  "curves": [
+    {
+      "rank": 8,
+      "mean_score": 0.01340183160367981
+    },
+    {
+      "rank": 9,
+      "mean_score": 0.006719570571321882
+    },
+    {
+      "rank": 10,
+      "mean_score": 0.008647483416994737
+    },
+    {
+      "rank": 11,
+      "mean_score": 0.01105108575698171
+    },
+    {
+      "rank": 12,
+      "mean_score": 0.012579039510330776
+    },
+    {
+      "rank": 13,
+      "mean_score": 0.0059735008634862335
+    },
+    {
+      "rank": 14,
+      "mean_score": 0.004933548457344533
+    },
+    {
+      "rank": 15,
+      "mean_score": 0.008481672405527227
+    },
+    {
+      "rank": 16,
+      "mean_score": 0.0035507127483558657
+    },
+    {
+      "rank": 17,
+      "mean_score": 0.0004649616858399541
+    },
+    {
+      "rank": 18,
+      "mean_score": 0.0037948197549020394
+    },
+    {
+      "rank": 19,
+      "mean_score": 0.005719433644382793
+    },
+    {
+      "rank": 20,
+      "mean_score": 0.009066006398252094
+    },
+    {
+      "rank": 21,
+      "mean_score": 0.00979919399850498
+    },
+    {
+      "rank": 22,
+      "mean_score": 0.004884050931975063
+    },
+    {
+      "rank": 23,
+      "mean_score": 0.003905403633381002
+    },
+    {
+      "rank": 24,
+      "mean_score": 0.005060090944630187
+    },
+    {
+      "rank": 25,
+      "mean_score": 0.0048953713919976756
+    },
+    {
+      "rank": 26,
+      "mean_score": 0.006340695968142305
+    },
+    {
+      "rank": 27,
+      "mean_score": 0.008725602619580913
+    },
+    {
+      "rank": 28,
+      "mean_score": 0.011277608104237238
+    },
+    {
+      "rank": 29,
+      "mean_score": 0.0051260640962787945
+    },
+    {
+      "rank": 30,
+      "mean_score": 0.007029335371508312
+    },
+    {
+      "rank": 31,
+      "mean_score": 0.006579689244391275
+    },
+    {
+      "rank": 32,
+      "mean_score": 0.005946209622645175
+    }
+  ],
+  "supersedes": "selection_fixed_rank4.json"
+}

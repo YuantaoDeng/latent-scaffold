@@ -1,0 +1,39 @@
+{
+  "complete": true,
+  "residual_conditions": 8,
+  "early_content_cifar10_models": 4,
+  "training_metadata_checks": [
+    {
+      "model": "resnet18",
+      "reused_verification": "results/early_content_scaffold_pilot/resnet18_cifar10/verification.json",
+      "complete": true
+    },
+    {
+      "model": "deit_tiny",
+      "complete": true,
+      "paired_runs": 12,
+      "branch_tasks": 48,
+      "disjoint_fit_eval_anchors": true,
+      "eval_anchors_excluded_from_training": true,
+      "all_task_update_counts_correct": true
+    },
+    {
+      "model": "mobilenetv3_small",
+      "complete": true,
+      "paired_runs": 12,
+      "branch_tasks": 48,
+      "disjoint_fit_eval_anchors": true,
+      "eval_anchors_excluded_from_training": true,
+      "all_task_update_counts_correct": true
+    },
+    {
+      "model": "mixer_b16",
+      "complete": true,
+      "paired_runs": 12,
+      "branch_tasks": 48,
+      "disjoint_fit_eval_anchors": true,
+      "eval_anchors_excluded_from_training": true,
+      "all_task_update_counts_correct": true
+    }
+  ]
+}

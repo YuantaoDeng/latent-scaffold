@@ -1,0 +1,92 @@
+[
+  {
+    "model": "resnet18",
+    "dataset": "cifar100",
+    "order": 1151,
+    "seed": 151,
+    "condition": "scaffold",
+    "target": 0.9444614892635295,
+    "coefficient": 100.0,
+    "dose": 0.9444614892635295,
+    "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/scaffold_100.csv",
+    "matched": true
+  },
+  {
+    "model": "resnet18",
+    "dataset": "cifar100",
+    "order": 1151,
+    "seed": 151,
+    "condition": "active_random1",
+    "target": 0.9444614870542367,
+    "coefficient": 0.3591556203,
+    "dose": 0.9505266974893056,
+    "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random1_0.3591556203.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/baseline_0.csv"
+      },
+      {
+        "coefficient": 0.1,
+        "dose": 0.8712274976830481,
+        "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random1_0.1.csv"
+      },
+      {
+        "coefficient": 0.3591556203,
+        "dose": 0.9505266974893056,
+        "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random1_0.3591556203.csv"
+      },
+      {
+        "coefficient": 0.5149820635,
+        "dose": 0.9651028847910162,
+        "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random1_0.5149820635.csv"
+      },
+      {
+        "coefficient": 1.0,
+        "dose": 0.9741142662343085,
+        "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random1_1.csv"
+      }
+    ]
+  },
+  {
+    "model": "resnet18",
+    "dataset": "cifar100",
+    "order": 1151,
+    "seed": 151,
+    "condition": "active_random2",
+    "target": 0.94446148652862,
+    "coefficient": 0.3682102898,
+    "dose": 0.9517865326979333,
+    "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random2_0.3682102898.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/baseline_0.csv"
+      },
+      {
+        "coefficient": 0.1,
+        "dose": 0.8669483656225467,
+        "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random2_0.1.csv"
+      },
+      {
+        "coefficient": 0.3682102898,
+        "dose": 0.9517865326979333,
+        "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random2_0.3682102898.csv"
+      },
+      {
+        "coefficient": 0.5262969871,
+        "dose": 0.9657034610590253,
+        "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random2_0.5262969871.csv"
+      },
+      {
+        "coefficient": 1.0,
+        "dose": 0.9744217457051052,
+        "path": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random2_1.csv"
+      }
+    ]
+  }
+]

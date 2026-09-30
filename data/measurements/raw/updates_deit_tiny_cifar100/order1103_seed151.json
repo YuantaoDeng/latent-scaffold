@@ -1,0 +1,62 @@
+{
+  "setup_seconds": 2.069080199999007,
+  "training_and_measurement_seconds": 96.67312640000091,
+  "measurement_seconds": 18.38743410000461,
+  "training_excluding_observer_seconds": 78.2856922999963,
+  "total_seconds": 98.78003030000036,
+  "attempted_updates": 705,
+  "random_control_max_error": 1.1194420124205351e-07,
+  "windows": {
+    "early": {
+      "adamw_full": {
+        "coverage": 0.12543009351919768,
+        "random_coverage": 0.10144574049768744,
+        "gain": 0.02398435302151022
+      },
+      "adamw_parameters": {
+        "coverage": 0.12543009351919768,
+        "random_coverage": 0.10144574049768744,
+        "gain": 0.02398435302151022
+      },
+      "norm_matched_training_gradient": {
+        "coverage": 0.12094462183791854,
+        "random_coverage": 0.10166257182628402,
+        "gain": 0.019282050011634525
+      }
+    },
+    "middle": {
+      "adamw_full": {
+        "coverage": 0.12383277692295024,
+        "random_coverage": 0.10222418988521735,
+        "gain": 0.021608587037732874
+      },
+      "adamw_parameters": {
+        "coverage": 0.12383277692295024,
+        "random_coverage": 0.10222418988521735,
+        "gain": 0.021608587037732874
+      },
+      "norm_matched_training_gradient": {
+        "coverage": 0.11688983296625555,
+        "random_coverage": 0.1022039963997317,
+        "gain": 0.014685836566523858
+      }
+    },
+    "late": {
+      "adamw_full": {
+        "coverage": 0.1103615465039574,
+        "random_coverage": 0.10231904958501559,
+        "gain": 0.008042496918941813
+      },
+      "adamw_parameters": {
+        "coverage": 0.1103615465039574,
+        "random_coverage": 0.10231904958501559,
+        "gain": 0.008042496918941813
+      },
+      "norm_matched_training_gradient": {
+        "coverage": 0.12377408564303831,
+        "random_coverage": 0.10241797171506589,
+        "gain": 0.021356113927972414
+      }
+    }
+  }
+}

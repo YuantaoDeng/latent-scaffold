@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "epoch_seconds": 3.0516955000000507,
+  "steps": 29,
+  "checks": {
+    "orthogonality_passed": true,
+    "gradient_algebra_passed": true,
+    "excluded_eval_disjoint": true,
+    "reference_batch_max_error": 0.0
+  }
+}

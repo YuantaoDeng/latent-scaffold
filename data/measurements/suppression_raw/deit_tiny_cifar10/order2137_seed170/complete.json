@@ -1,0 +1,11 @@
+{
+  "complete": true,
+  "branches": 10,
+  "condition": 2,
+  "short": "deit_tiny",
+  "dataset": "cifar10",
+  "source": "results/final_rank_rule/deit/cifar10/target_order2137/artifacts/order2137_seed170.pt",
+  "order": 2137,
+  "seed": 170,
+  "mode": "suppress"
+}

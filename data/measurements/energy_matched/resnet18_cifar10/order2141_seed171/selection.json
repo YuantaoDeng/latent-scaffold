@@ -1,0 +1,82 @@
+[
+  {
+    "model": "resnet18",
+    "dataset": "cifar10",
+    "order": 2141,
+    "seed": 171,
+    "condition": "scaffold",
+    "target": 0.9268338671250022,
+    "coefficient": 100.0,
+    "dose": 0.9268338671250022,
+    "path": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/scaffold_100.csv",
+    "matched": true
+  },
+  {
+    "model": "resnet18",
+    "dataset": "cifar10",
+    "order": 2141,
+    "seed": 171,
+    "condition": "active_random1",
+    "target": 0.9268338690408158,
+    "coefficient": 0.7079457844,
+    "dose": 0.9322500559068441,
+    "path": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/active_random1_0.7079457844.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/baseline_0.csv"
+      },
+      {
+        "coefficient": 0.1,
+        "dose": 0.7675147031627847,
+        "path": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/active_random1_0.1.csv"
+      },
+      {
+        "coefficient": 0.7079457844,
+        "dose": 0.9322500559068441,
+        "path": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/active_random1_0.7079457844.csv"
+      },
+      {
+        "coefficient": 1.0,
+        "dose": 0.9434091363757502,
+        "path": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/active_random1_1.csv"
+      }
+    ]
+  },
+  {
+    "model": "resnet18",
+    "dataset": "cifar10",
+    "order": 2141,
+    "seed": 171,
+    "condition": "active_random2",
+    "target": 0.9268338664689681,
+    "coefficient": 0.7079457844,
+    "dose": 0.9294245724566559,
+    "path": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/active_random2_0.7079457844.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/baseline_0.csv"
+      },
+      {
+        "coefficient": 0.1,
+        "dose": 0.7389748916313665,
+        "path": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/active_random2_0.1.csv"
+      },
+      {
+        "coefficient": 0.7079457844,
+        "dose": 0.9294245724566559,
+        "path": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/active_random2_0.7079457844.csv"
+      },
+      {
+        "coefficient": 1.0,
+        "dose": 0.9456640862354219,
+        "path": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/active_random2_1.csv"
+      }
+    ]
+  }
+]

@@ -1,0 +1,247 @@
+{
+  "model": "resnet18",
+  "dataset": "cifar10",
+  "source": "results/resnet_cifar10_unified_main_20260921/all_model_causal/suppress/resnet18_cifar10",
+  "contrasts": [
+    {
+      "strength": 1,
+      "metric": "new_acquisition",
+      "comparator": "random",
+      "mean": -0.039999998609224964,
+      "ci95": [
+        -0.053499999642372065,
+        -0.024499988555908236
+      ]
+    },
+    {
+      "strength": 1,
+      "metric": "new_acquisition",
+      "comparator": "baseline",
+      "mean": -0.03233332832654314,
+      "ci95": [
+        -0.05666666428248083,
+        -0.01199998855590817
+      ]
+    },
+    {
+      "strength": 1,
+      "metric": "new_accuracy",
+      "comparator": "random",
+      "mean": -0.02416666845480601,
+      "ci95": [
+        -0.04166667660077413,
+        -0.004999995231628418
+      ]
+    },
+    {
+      "strength": 1,
+      "metric": "new_accuracy",
+      "comparator": "baseline",
+      "mean": -0.01166666547457377,
+      "ci95": [
+        -0.04000000158945719,
+        0.015000015497207642
+      ]
+    },
+    {
+      "strength": 1,
+      "metric": "first_accuracy",
+      "comparator": "random",
+      "mean": 0.0041666825612386065,
+      "ci95": [
+        -0.03166666626930237,
+        0.06000002225240072
+      ]
+    },
+    {
+      "strength": 1,
+      "metric": "first_accuracy",
+      "comparator": "baseline",
+      "mean": 0.008333355188369751,
+      "ci95": [
+        -0.04999998211860657,
+        0.05666669209798177
+      ]
+    },
+    {
+      "strength": 1,
+      "metric": "old_accuracy",
+      "comparator": "random",
+      "mean": 0.003333320220311483,
+      "ci95": [
+        -0.015416696667671204,
+        0.017500003178914387
+      ]
+    },
+    {
+      "strength": 1,
+      "metric": "old_accuracy",
+      "comparator": "baseline",
+      "mean": -0.009166667858759562,
+      "ci95": [
+        -0.029999991257985432,
+        0.011666655540466309
+      ]
+    },
+    {
+      "strength": 10,
+      "metric": "new_acquisition",
+      "comparator": "random",
+      "mean": -0.11783333520094558,
+      "ci95": [
+        -0.13633333047231042,
+        -0.08833334843317668
+      ]
+    },
+    {
+      "strength": 10,
+      "metric": "new_acquisition",
+      "comparator": "baseline",
+      "mean": -0.13633333643277487,
+      "ci95": [
+        -0.17399999499320984,
+        -0.09066667556762693
+      ]
+    },
+    {
+      "strength": 10,
+      "metric": "new_accuracy",
+      "comparator": "random",
+      "mean": -0.09416668117046356,
+      "ci95": [
+        -0.14000003039836884,
+        -0.05500000715255737
+      ]
+    },
+    {
+      "strength": 10,
+      "metric": "new_accuracy",
+      "comparator": "baseline",
+      "mean": -0.09833333889643352,
+      "ci95": [
+        -0.15000003576278687,
+        -0.06999999284744263
+      ]
+    },
+    {
+      "strength": 10,
+      "metric": "first_accuracy",
+      "comparator": "random",
+      "mean": 0.006666665275891622,
+      "ci95": [
+        -0.010833337903022766,
+        0.030833318829536438
+      ]
+    },
+    {
+      "strength": 10,
+      "metric": "first_accuracy",
+      "comparator": "baseline",
+      "mean": 0.008333345254262289,
+      "ci95": [
+        -0.03333333134651184,
+        0.04500001668930054
+      ]
+    },
+    {
+      "strength": 10,
+      "metric": "old_accuracy",
+      "comparator": "random",
+      "mean": -0.011458327372868856,
+      "ci95": [
+        -0.03354165951410929,
+        0.005208348234494527
+      ]
+    },
+    {
+      "strength": 10,
+      "metric": "old_accuracy",
+      "comparator": "baseline",
+      "mean": -0.03291665514310201,
+      "ci95": [
+        -0.06499998768170674,
+        -0.002499997615814209
+      ]
+    },
+    {
+      "strength": 100,
+      "metric": "new_acquisition",
+      "comparator": "random",
+      "mean": -0.06966666479905444,
+      "ci95": [
+        -0.081499993801117,
+        -0.05799999932448063
+      ]
+    },
+    {
+      "strength": 100,
+      "metric": "new_acquisition",
+      "comparator": "baseline",
+      "mean": -0.20933332939942675,
+      "ci95": [
+        -0.24533331394195557,
+        -0.1620000044504801
+      ]
+    },
+    {
+      "strength": 100,
+      "metric": "new_accuracy",
+      "comparator": "random",
+      "mean": -0.07833332320054372,
+      "ci95": [
+        -0.09833332399527232,
+        -0.059999982515970864
+      ]
+    },
+    {
+      "strength": 100,
+      "metric": "new_accuracy",
+      "comparator": "baseline",
+      "mean": -0.1666666567325592,
+      "ci95": [
+        -0.2150000035762787,
+        -0.128333310286204
+      ]
+    },
+    {
+      "strength": 100,
+      "metric": "first_accuracy",
+      "comparator": "random",
+      "mean": 0.01666666567325592,
+      "ci95": [
+        -0.009999990463256836,
+        0.048333317041397095
+      ]
+    },
+    {
+      "strength": 100,
+      "metric": "first_accuracy",
+      "comparator": "baseline",
+      "mean": 0.0033333500226338706,
+      "ci95": [
+        -0.030000001192092896,
+        0.025000035762786865
+      ]
+    },
+    {
+      "strength": 100,
+      "metric": "old_accuracy",
+      "comparator": "random",
+      "mean": -0.00395833949247996,
+      "ci95": [
+        -0.017499993244806927,
+        0.0062499940395355225
+      ]
+    },
+    {
+      "strength": 100,
+      "metric": "old_accuracy",
+      "comparator": "baseline",
+      "mean": -0.052500009536743164,
+      "ci95": [
+        -0.08750000596046448,
+        -0.013750016689300537
+      ]
+    }
+  ]
+}

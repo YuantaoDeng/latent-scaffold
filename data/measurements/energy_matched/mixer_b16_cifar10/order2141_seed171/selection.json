@@ -1,0 +1,67 @@
+[
+  {
+    "model": "mixer_b16",
+    "dataset": "cifar10",
+    "order": 2141,
+    "seed": 171,
+    "condition": "scaffold",
+    "target": 0.9822308588195333,
+    "coefficient": 100.0,
+    "dose": 0.9822308588195333,
+    "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/scaffold_100.csv",
+    "matched": true
+  },
+  {
+    "model": "mixer_b16",
+    "dataset": "cifar10",
+    "order": 2141,
+    "seed": 171,
+    "condition": "active_random1",
+    "target": 0.9822308589278583,
+    "coefficient": 100.0,
+    "dose": 0.9751261350997878,
+    "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/active_random1_100.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/baseline_0.csv"
+      },
+      {
+        "coefficient": 10.0,
+        "dose": 0.971599734869497,
+        "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/active_random1_10.csv"
+      },
+      {
+        "coefficient": 100.0,
+        "dose": 0.9751261350997878,
+        "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/active_random1_100.csv"
+      }
+    ]
+  },
+  {
+    "model": "mixer_b16",
+    "dataset": "cifar10",
+    "order": 2141,
+    "seed": 171,
+    "condition": "active_random2",
+    "target": 0.9822308629443346,
+    "coefficient": 10.0,
+    "dose": 0.9815505472153999,
+    "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/active_random2_10.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/baseline_0.csv"
+      },
+      {
+        "coefficient": 10.0,
+        "dose": 0.9815505472153999,
+        "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/active_random2_10.csv"
+      }
+    ]
+  }
+]

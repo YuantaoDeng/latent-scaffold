@@ -1,0 +1,72 @@
+[
+  {
+    "model": "mixer_b16",
+    "dataset": "cifar100",
+    "order": 1123,
+    "seed": 151,
+    "condition": "scaffold",
+    "target": 0.986544422097234,
+    "coefficient": 100.0,
+    "dose": 0.986544422097234,
+    "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/scaffold_100.csv",
+    "matched": true
+  },
+  {
+    "model": "mixer_b16",
+    "dataset": "cifar100",
+    "order": 1123,
+    "seed": 151,
+    "condition": "active_random1",
+    "target": 0.9865444238466708,
+    "coefficient": 10.0,
+    "dose": 0.9858636558730334,
+    "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/active_random1_10.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/baseline_0.csv"
+      },
+      {
+        "coefficient": 1.0,
+        "dose": 0.9580144820518497,
+        "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/active_random1_1.csv"
+      },
+      {
+        "coefficient": 10.0,
+        "dose": 0.9858636558730334,
+        "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/active_random1_10.csv"
+      }
+    ]
+  },
+  {
+    "model": "mixer_b16",
+    "dataset": "cifar100",
+    "order": 1123,
+    "seed": 151,
+    "condition": "active_random2",
+    "target": 0.9865444205313805,
+    "coefficient": 10.0,
+    "dose": 0.9821447585882844,
+    "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/active_random2_10.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/baseline_0.csv"
+      },
+      {
+        "coefficient": 1.0,
+        "dose": 0.9722400967193892,
+        "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/active_random2_1.csv"
+      },
+      {
+        "coefficient": 10.0,
+        "dose": 0.9821447585882844,
+        "path": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/active_random2_10.csv"
+      }
+    ]
+  }
+]

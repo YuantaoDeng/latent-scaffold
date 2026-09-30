@@ -1,0 +1,9 @@
+[project]
+name = "drift-atlas"
+version = "0.1.0"
+description = "Shared representational-drift subspaces across continual-learning trajectories"
+requires-python = ">=3.11"
+dependencies = ["torch>=2.4,<3", "torchvision>=0.19,<1", "timm>=1,<2", "numpy>=2,<3", "matplotlib>=3.8,<4"]
+
+[tool.ruff]
+line-length = 110

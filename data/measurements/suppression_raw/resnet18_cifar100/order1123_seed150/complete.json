@@ -1,0 +1,11 @@
+{
+  "complete": true,
+  "branches": 10,
+  "condition": 1,
+  "short": "resnet18",
+  "dataset": "cifar100",
+  "source": "results/confirmatory/hf_target_order1123/artifacts/order1123_seed150.pt",
+  "order": 1123,
+  "seed": 150,
+  "mode": "suppress"
+}

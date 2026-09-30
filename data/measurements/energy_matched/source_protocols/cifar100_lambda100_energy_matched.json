@@ -1,0 +1,175 @@
+{
+  "target": "per-history scaffold lambda100 removed energy",
+  "scaffold_coefficient": 100.0,
+  "tolerance": 0.01,
+  "metric": "1 - constrained memory projected energy / baseline SAME-subspace energy",
+  "excluded": [
+    "Mixer",
+    "PCA"
+  ],
+  "conditions": [
+    "scaffold",
+    "active_random1",
+    "active_random2"
+  ],
+  "cases": [
+    {
+      "condition": 1,
+      "short": "resnet18",
+      "dataset": "cifar100",
+      "source": "results/confirmatory/hf_target_order1123/artifacts/order1123_seed150.pt",
+      "order": 1123,
+      "seed": 150
+    },
+    {
+      "condition": 1,
+      "short": "resnet18",
+      "dataset": "cifar100",
+      "source": "results/confirmatory/hf_target_order1123/artifacts/order1123_seed151.pt",
+      "order": 1123,
+      "seed": 151
+    },
+    {
+      "condition": 1,
+      "short": "resnet18",
+      "dataset": "cifar100",
+      "source": "results/confirmatory/hf_target_order1129/artifacts/order1129_seed150.pt",
+      "order": 1129,
+      "seed": 150
+    },
+    {
+      "condition": 1,
+      "short": "resnet18",
+      "dataset": "cifar100",
+      "source": "results/confirmatory/hf_target_order1129/artifacts/order1129_seed151.pt",
+      "order": 1129,
+      "seed": 151
+    },
+    {
+      "condition": 1,
+      "short": "resnet18",
+      "dataset": "cifar100",
+      "source": "results/confirmatory/hf_target_order1151/artifacts/order1151_seed150.pt",
+      "order": 1151,
+      "seed": 150
+    },
+    {
+      "condition": 1,
+      "short": "resnet18",
+      "dataset": "cifar100",
+      "source": "results/confirmatory/hf_target_order1151/artifacts/order1151_seed151.pt",
+      "order": 1151,
+      "seed": 151
+    },
+    {
+      "condition": 3,
+      "short": "deit_tiny",
+      "dataset": "cifar100",
+      "source": "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1123/artifacts/order1123_seed150.pt",
+      "order": 1123,
+      "seed": 150
+    },
+    {
+      "condition": 3,
+      "short": "deit_tiny",
+      "dataset": "cifar100",
+      "source": "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1123/artifacts/order1123_seed151.pt",
+      "order": 1123,
+      "seed": 151
+    },
+    {
+      "condition": 3,
+      "short": "deit_tiny",
+      "dataset": "cifar100",
+      "source": "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1129/artifacts/order1129_seed150.pt",
+      "order": 1129,
+      "seed": 150
+    },
+    {
+      "condition": 3,
+      "short": "deit_tiny",
+      "dataset": "cifar100",
+      "source": "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1129/artifacts/order1129_seed151.pt",
+      "order": 1129,
+      "seed": 151
+    },
+    {
+      "condition": 3,
+      "short": "deit_tiny",
+      "dataset": "cifar100",
+      "source": "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1151/artifacts/order1151_seed150.pt",
+      "order": 1151,
+      "seed": 150
+    },
+    {
+      "condition": 3,
+      "short": "deit_tiny",
+      "dataset": "cifar100",
+      "source": "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1151/artifacts/order1151_seed151.pt",
+      "order": 1151,
+      "seed": 151
+    },
+    {
+      "condition": 5,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar100",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1123/artifacts/order1123_seed150.pt",
+      "order": 1123,
+      "seed": 150
+    },
+    {
+      "condition": 5,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar100",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1123/artifacts/order1123_seed151.pt",
+      "order": 1123,
+      "seed": 151
+    },
+    {
+      "condition": 5,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar100",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1129/artifacts/order1129_seed150.pt",
+      "order": 1129,
+      "seed": 150
+    },
+    {
+      "condition": 5,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar100",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1129/artifacts/order1129_seed151.pt",
+      "order": 1129,
+      "seed": 151
+    },
+    {
+      "condition": 5,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar100",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1151/artifacts/order1151_seed150.pt",
+      "order": 1151,
+      "seed": 150
+    },
+    {
+      "condition": 5,
+      "short": "mobilenetv3_small",
+      "dataset": "cifar100",
+      "source": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1151/artifacts/order1151_seed151.pt",
+      "order": 1151,
+      "seed": 151
+    }
+  ],
+  "histories": 18,
+  "comparisons": 54,
+  "run_minutes": 20,
+  "rest_minutes": 10,
+  "polling": "before each training/evaluation batch, CUDA synchronized on rest entry",
+  "fixed_basis": "original paper ranks; active random baseline energy matched to scaffold within each history",
+  "selection": "memory-only target calibration; no accuracy-based selection",
+  "max_trials": 24,
+  "maximum_coefficient": 1000.0,
+  "source_hashes": {
+    "scripts/cifar100_lambda100_energy_matched_queue.py": "b2ed296706363215a22d455540c90c99d59958fcf0fb63b2f532de0d43da0c06",
+    "scripts/relative90_worker.py": "066fbd358e9140dda35ad1f41360764b03123ecce575eec2b2324df14fbc695d",
+    "scripts/all_model_causal.py": "beaf9ad7d7b85c3d09d502c1ca0b76a8f9522c2ac515afcf9cd30b6e8d71359f"
+  }
+}

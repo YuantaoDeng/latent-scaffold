@@ -1,0 +1,96 @@
+{
+  "dataset": "cifar100",
+  "tasks": 4,
+  "classes_per_task": 10,
+  "seeds": [
+    140,
+    141
+  ],
+  "rank": 8,
+  "random_controls": 128,
+  "max_spectrum_error": 1e-05,
+  "svd_threshold": 1e-07,
+  "continual_method": "er",
+  "residual_pca_ranks": [
+    8,
+    32,
+    64
+  ],
+  "epochs": 5,
+  "train_per_class": 450,
+  "probe_per_class": 50,
+  "memory": 500,
+  "batch_size": 64,
+  "lr": 0.0003,
+  "der_alpha": 0.5,
+  "order_seed": 1019,
+  "validation_suite": true,
+  "model": "deit_tiny_patch16_224",
+  "pretrained": true,
+  "initial_checkpoint": null,
+  "save_trajectory": true,
+  "data": "data",
+  "output": "results/backbone_initialization_validation/pretrained_deit_tiny/source_order1019",
+  "force": false,
+  "save_layers": false,
+  "save_pre_future_checkpoint": true,
+  "order": [
+    [
+      82,
+      57,
+      5,
+      38,
+      26,
+      83,
+      28,
+      33,
+      98,
+      43
+    ],
+    [
+      89,
+      92,
+      31,
+      68,
+      40,
+      86,
+      75,
+      32,
+      56,
+      60
+    ],
+    [
+      79,
+      29,
+      63,
+      50,
+      7,
+      53,
+      77,
+      3,
+      39,
+      37
+    ],
+    [
+      61,
+      41,
+      17,
+      4,
+      55,
+      80,
+      95,
+      20,
+      78,
+      12
+    ]
+  ],
+  "num_classes": 100,
+  "device": "cuda",
+  "torch": "2.13.0+cu130",
+  "timm": "1.0.29",
+  "status": "complete",
+  "completed_seeds": [
+    140,
+    141
+  ]
+}

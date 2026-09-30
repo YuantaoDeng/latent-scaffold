@@ -1,0 +1,70 @@
+{
+  "condition": 0,
+  "short": "resnet18",
+  "dataset": "cifar10",
+  "source": "results/cifar10_confirmation/target_order2141/artifacts/order2141_seed171.pt",
+  "order": 2141,
+  "seed": 171,
+  "mode": "suppress",
+  "model": "resnet18",
+  "rank": 8,
+  "task": 5,
+  "epochs": 5,
+  "source_sha256": "a941e426ba5f1801aebf58d6c3f6e23a2d457941fb459ebaea857425261eac2e",
+  "scaffold_source": "results/final_rank_rule/resnet/cifar10/rank8/predictors.pt",
+  "scaffold_sha256": "b5cebf49b0c7b4346fc8ed98a11a51a9d1e63299ed4e38edf73aa9dfb3499ccd",
+  "recovered_source": null,
+  "checks": {
+    "orthogonality_passed": true,
+    "gradient_algebra_passed": true,
+    "excluded_eval_disjoint": true,
+    "reference_batch_max_error": 4.76837158203125e-06
+  },
+  "amp_enabled": true,
+  "classifier": "trainable; all seen classes compete",
+  "initialization": "saved pre-final-task; fresh paired continuation, not original trajectory replay",
+  "branches": [
+    [
+      "baseline",
+      0.0
+    ],
+    [
+      "scaffold",
+      1.0
+    ],
+    [
+      "random1",
+      1.0
+    ],
+    [
+      "random2",
+      1.0
+    ],
+    [
+      "scaffold",
+      10.0
+    ],
+    [
+      "random1",
+      10.0
+    ],
+    [
+      "random2",
+      10.0
+    ],
+    [
+      "scaffold",
+      100.0
+    ],
+    [
+      "random1",
+      100.0
+    ],
+    [
+      "random2",
+      100.0
+    ]
+  ],
+  "storage": "epoch-resume model retained until branch completed; final per-example predictions/features and all-task curves retained; no redundant final weights",
+  "precision": "FP32 penalty/observation; AMP classification except MobileNet; scaler128"
+}

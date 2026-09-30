@@ -1,0 +1,175 @@
+{
+  "conditions": [
+    {
+      "model": "ResNet-18",
+      "dataset": "cifar10",
+      "rank": 8,
+      "paths": [
+        "results/cifar10_confirmation/target_order2101/artifacts/order2101_seed170.pt",
+        "results/cifar10_confirmation/target_order2101/artifacts/order2101_seed171.pt",
+        "results/cifar10_confirmation/target_order2111/artifacts/order2111_seed170.pt",
+        "results/cifar10_confirmation/target_order2111/artifacts/order2111_seed171.pt",
+        "results/cifar10_confirmation/target_order2129/artifacts/order2129_seed170.pt",
+        "results/cifar10_confirmation/target_order2129/artifacts/order2129_seed171.pt",
+        "results/cifar10_confirmation/target_order2131/artifacts/order2131_seed170.pt",
+        "results/cifar10_confirmation/target_order2131/artifacts/order2131_seed171.pt",
+        "results/cifar10_confirmation/target_order2137/artifacts/order2137_seed170.pt",
+        "results/cifar10_confirmation/target_order2137/artifacts/order2137_seed171.pt",
+        "results/cifar10_confirmation/target_order2141/artifacts/order2141_seed170.pt",
+        "results/cifar10_confirmation/target_order2141/artifacts/order2141_seed171.pt"
+      ],
+      "scaffold": "results/final_rank_rule/resnet/cifar10/rank8/predictors.pt",
+      "output": "results/multistep_update_pilot/resnet18_cifar10"
+    },
+    {
+      "model": "ResNet-18",
+      "dataset": "cifar100",
+      "rank": 8,
+      "paths": [
+        "results/confirmatory/hf_target_order1103/artifacts/order1103_seed150.pt",
+        "results/confirmatory/hf_target_order1103/artifacts/order1103_seed151.pt",
+        "results/confirmatory/hf_target_order1109/artifacts/order1109_seed150.pt",
+        "results/confirmatory/hf_target_order1109/artifacts/order1109_seed151.pt",
+        "results/confirmatory/hf_target_order1117/artifacts/order1117_seed150.pt",
+        "results/confirmatory/hf_target_order1117/artifacts/order1117_seed151.pt",
+        "results/confirmatory/hf_target_order1123/artifacts/order1123_seed150.pt",
+        "results/confirmatory/hf_target_order1123/artifacts/order1123_seed151.pt",
+        "results/confirmatory/hf_target_order1129/artifacts/order1129_seed150.pt",
+        "results/confirmatory/hf_target_order1129/artifacts/order1129_seed151.pt",
+        "results/confirmatory/hf_target_order1151/artifacts/order1151_seed150.pt",
+        "results/confirmatory/hf_target_order1151/artifacts/order1151_seed151.pt"
+      ],
+      "scaffold": "results/final_rank_rule/resnet/cifar100/rank8/predictors.pt",
+      "output": "results/multistep_update_all/resnet18_cifar100"
+    },
+    {
+      "model": "DeiT-Tiny",
+      "dataset": "cifar10",
+      "rank": 8,
+      "paths": [
+        "results/final_rank_rule/deit/cifar10/target_order2101/artifacts/order2101_seed170.pt",
+        "results/final_rank_rule/deit/cifar10/target_order2101/artifacts/order2101_seed171.pt",
+        "results/final_rank_rule/deit/cifar10/target_order2111/artifacts/order2111_seed170.pt",
+        "results/final_rank_rule/deit/cifar10/target_order2111/artifacts/order2111_seed171.pt",
+        "results/final_rank_rule/deit/cifar10/target_order2129/artifacts/order2129_seed170.pt",
+        "results/final_rank_rule/deit/cifar10/target_order2129/artifacts/order2129_seed171.pt",
+        "results/final_rank_rule/deit/cifar10/target_order2131/artifacts/order2131_seed170.pt",
+        "results/final_rank_rule/deit/cifar10/target_order2131/artifacts/order2131_seed171.pt",
+        "results/final_rank_rule/deit/cifar10/target_order2137/artifacts/order2137_seed170.pt",
+        "results/final_rank_rule/deit/cifar10/target_order2137/artifacts/order2137_seed171.pt",
+        "results/final_rank_rule/deit/cifar10/target_order2141/artifacts/order2141_seed170.pt",
+        "results/final_rank_rule/deit/cifar10/target_order2141/artifacts/order2141_seed171.pt"
+      ],
+      "scaffold": "results/final_rank_rule/deit/cifar10/rank8/predictors.pt",
+      "output": "results/multistep_update_all/deit_tiny_cifar10"
+    },
+    {
+      "model": "DeiT-Tiny",
+      "dataset": "cifar100",
+      "rank": 20,
+      "paths": [
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1103/artifacts/order1103_seed150.pt",
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1103/artifacts/order1103_seed151.pt",
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1109/artifacts/order1109_seed150.pt",
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1109/artifacts/order1109_seed151.pt",
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1117/artifacts/order1117_seed150.pt",
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1117/artifacts/order1117_seed151.pt",
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1123/artifacts/order1123_seed150.pt",
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1123/artifacts/order1123_seed151.pt",
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1129/artifacts/order1129_seed150.pt",
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1129/artifacts/order1129_seed151.pt",
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1151/artifacts/order1151_seed150.pt",
+        "results/backbone_initialization_validation/pretrained_deit_tiny/target_order1151/artifacts/order1151_seed151.pt"
+      ],
+      "scaffold": "results/deit_pca_dimension/cifar100/rank20/predictors.pt",
+      "output": "results/multistep_update_all/deit_tiny_cifar100"
+    },
+    {
+      "model": "MobileNetV3-S",
+      "dataset": "cifar10",
+      "rank": 24,
+      "paths": [
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2101/artifacts/order2101_seed170.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2101/artifacts/order2101_seed171.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2111/artifacts/order2111_seed170.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2111/artifacts/order2111_seed171.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2129/artifacts/order2129_seed170.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2129/artifacts/order2129_seed171.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2131/artifacts/order2131_seed170.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2131/artifacts/order2131_seed171.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2137/artifacts/order2137_seed170.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2137/artifacts/order2137_seed171.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2141/artifacts/order2141_seed170.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/target_order2141/artifacts/order2141_seed171.pt"
+      ],
+      "scaffold": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar10/rank24/predictors.pt",
+      "output": "results/multistep_update_all/mobilenetv3_small_cifar10"
+    },
+    {
+      "model": "MobileNetV3-S",
+      "dataset": "cifar100",
+      "rank": 8,
+      "paths": [
+        "results/cross_model_extension/mobilenetv3_small_100.lamb_in1k/target_order1103/artifacts/order1103_seed150.pt",
+        "results/cross_model_extension/mobilenetv3_small_100.lamb_in1k/target_order1103/artifacts/order1103_seed151.pt",
+        "results/cross_model_extension/mobilenetv3_small_100.lamb_in1k/target_order1109/artifacts/order1109_seed150.pt",
+        "results/cross_model_extension/mobilenetv3_small_100.lamb_in1k/target_order1109/artifacts/order1109_seed151.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1117/artifacts/order1117_seed150.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1117/artifacts/order1117_seed151.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1123/artifacts/order1123_seed150.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1123/artifacts/order1123_seed151.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1129/artifacts/order1129_seed150.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1129/artifacts/order1129_seed151.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1151/artifacts/order1151_seed150.pt",
+        "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/target_order1151/artifacts/order1151_seed151.pt"
+      ],
+      "scaffold": "results/additional_rank_rule/mobilenetv3_small_100.lamb_in1k/cifar100/rank8/predictors.pt",
+      "output": "results/multistep_update_all/mobilenetv3_small_cifar100"
+    },
+    {
+      "model": "MLP-Mixer-B/16",
+      "dataset": "cifar10",
+      "rank": 8,
+      "paths": [
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2101/artifacts/order2101_seed170.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2101/artifacts/order2101_seed171.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2111/artifacts/order2111_seed170.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2111/artifacts/order2111_seed171.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2129/artifacts/order2129_seed170.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2129/artifacts/order2129_seed171.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2131/artifacts/order2131_seed170.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2131/artifacts/order2131_seed171.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2137/artifacts/order2137_seed170.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2137/artifacts/order2137_seed171.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2141/artifacts/order2141_seed170.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/target_order2141/artifacts/order2141_seed171.pt"
+      ],
+      "scaffold": "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar10/rank8/predictors.pt",
+      "output": "results/multistep_update_all/mixer_b16_cifar10"
+    },
+    {
+      "model": "MLP-Mixer-B/16",
+      "dataset": "cifar100",
+      "rank": 8,
+      "paths": [
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1103/artifacts/order1103_seed150.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1103/artifacts/order1103_seed151.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1109/artifacts/order1109_seed150.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1109/artifacts/order1109_seed151.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1117/artifacts/order1117_seed150.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1117/artifacts/order1117_seed151.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1123/artifacts/order1123_seed150.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1123/artifacts/order1123_seed151.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1129/artifacts/order1129_seed150.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1129/artifacts/order1129_seed151.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1151/artifacts/order1151_seed150.pt",
+        "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1151/artifacts/order1151_seed151.pt"
+      ],
+      "scaffold": "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/rank8/predictors.pt",
+      "output": "results/multistep_update_all/mixer_b16_cifar100"
+    }
+  ],
+  "positions": "early 2–4; middle round(N*65/145)..+2; late round(N*125/145)..+2; N=planned attempted updates",
+  "random_controls": 128,
+  "status": "complete"
+}

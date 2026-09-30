@@ -1,0 +1,70 @@
+{
+  "condition": 7,
+  "short": "mixer_b16",
+  "dataset": "cifar100",
+  "source": "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1123/artifacts/order1123_seed151.pt",
+  "order": 1123,
+  "seed": 151,
+  "mode": "suppress",
+  "model": "mixer_b16_224.goog_in21k_ft_in1k",
+  "rank": 8,
+  "task": 4,
+  "epochs": 5,
+  "source_sha256": "38abbff3a34f41b54f9dbace9c4e156bec4c407c2efe52f1730dda6cca011567",
+  "scaffold_source": "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/rank8/predictors.pt",
+  "scaffold_sha256": "1883476a6e21ee977e54b269660681725ce62ee15eb6793705e9df81447fa4be",
+  "recovered_source": null,
+  "checks": {
+    "orthogonality_passed": true,
+    "gradient_algebra_passed": true,
+    "excluded_eval_disjoint": true,
+    "reference_batch_max_error": 2.6226043701171875e-06
+  },
+  "amp_enabled": true,
+  "classifier": "trainable; all seen classes compete",
+  "initialization": "saved pre-final-task; fresh paired continuation, not original trajectory replay",
+  "branches": [
+    [
+      "baseline",
+      0.0
+    ],
+    [
+      "scaffold",
+      1.0
+    ],
+    [
+      "random1",
+      1.0
+    ],
+    [
+      "random2",
+      1.0
+    ],
+    [
+      "scaffold",
+      10.0
+    ],
+    [
+      "random1",
+      10.0
+    ],
+    [
+      "random2",
+      10.0
+    ],
+    [
+      "scaffold",
+      100.0
+    ],
+    [
+      "random1",
+      100.0
+    ],
+    [
+      "random2",
+      100.0
+    ]
+  ],
+  "storage": "epoch-resume model retained until branch completed; final per-example predictions/features and all-task curves retained; no redundant final weights",
+  "precision": "FP32 penalty/observation; AMP classification except MobileNet; scaler128"
+}

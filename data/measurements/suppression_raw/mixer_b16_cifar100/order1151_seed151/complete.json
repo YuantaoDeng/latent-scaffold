@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "branches": 10,
+  "strength": null,
+  "condition": 7,
+  "short": "mixer_b16",
+  "dataset": "cifar100",
+  "source": "results/mlp_rnn_extension/mixer_b16_224.goog_in21k_ft_in1k/cifar100/target_order1151/artifacts/order1151_seed151.pt",
+  "order": 1151,
+  "seed": 151,
+  "mode": "suppress"
+}

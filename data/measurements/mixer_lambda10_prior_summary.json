@@ -1,0 +1,410 @@
+[
+  {
+    "dataset": "cifar10",
+    "complete_histories": 6,
+    "required_histories": 6,
+    "contrasts": [
+      {
+        "metric": "task1_accuracy",
+        "comparator": "baseline",
+        "mean": 0.0316666712363561,
+        "ci95": [
+          -0.054999977350234985,
+          0.11499998966852824
+        ]
+      },
+      {
+        "metric": "task2_accuracy",
+        "comparator": "baseline",
+        "mean": 0.0033333351214726767,
+        "ci95": [
+          -0.03500001629193624,
+          0.06000001231829325
+        ]
+      },
+      {
+        "metric": "task3_accuracy",
+        "comparator": "baseline",
+        "mean": -0.01833332081635793,
+        "ci95": [
+          -0.11666665474573772,
+          0.08000001311302185
+        ]
+      },
+      {
+        "metric": "task4_accuracy",
+        "comparator": "baseline",
+        "mean": 0.08000000317891438,
+        "ci95": [
+          0.04333337148030599,
+          0.11666665474573772
+        ]
+      },
+      {
+        "metric": "task5_accuracy",
+        "comparator": "baseline",
+        "mean": -0.054999977350234985,
+        "ci95": [
+          -0.09499996900558472,
+          -0.011666645606358847
+        ]
+      },
+      {
+        "metric": "first_accuracy",
+        "comparator": "baseline",
+        "mean": 0.0316666712363561,
+        "ci95": [
+          -0.054999977350234985,
+          0.11499998966852824
+        ]
+      },
+      {
+        "metric": "new_accuracy",
+        "comparator": "baseline",
+        "mean": -0.054999977350234985,
+        "ci95": [
+          -0.09499996900558472,
+          -0.011666645606358847
+        ]
+      },
+      {
+        "metric": "old_accuracy",
+        "comparator": "baseline",
+        "mean": 0.02416667342185974,
+        "ci95": [
+          -0.009583324193954468,
+          0.0666666825612386
+        ]
+      },
+      {
+        "metric": "new_acquisition",
+        "comparator": "baseline",
+        "mean": -0.10700000723203022,
+        "ci95": [
+          -0.1473333398501078,
+          -0.06500000754992168
+        ]
+      },
+      {
+        "metric": "task1_accuracy",
+        "comparator": "random",
+        "mean": 0.04666665941476822,
+        "ci95": [
+          -0.002499982714653015,
+          0.08999997874101003
+        ]
+      },
+      {
+        "metric": "task2_accuracy",
+        "comparator": "random",
+        "mean": 0.005833332737286885,
+        "ci95": [
+          -0.04250001907348633,
+          0.04500000675519308
+        ]
+      },
+      {
+        "metric": "task3_accuracy",
+        "comparator": "random",
+        "mean": 0.025000018378098805,
+        "ci95": [
+          -0.029999991257985432,
+          0.10833334922790527
+        ]
+      },
+      {
+        "metric": "task4_accuracy",
+        "comparator": "random",
+        "mean": 0.01250000794728597,
+        "ci95": [
+          -0.04833334187666575,
+          0.08666668335596721
+        ]
+      },
+      {
+        "metric": "task5_accuracy",
+        "comparator": "random",
+        "mean": -0.09583333134651184,
+        "ci95": [
+          -0.1350000003973643,
+          -0.059166669845581055
+        ]
+      },
+      {
+        "metric": "first_accuracy",
+        "comparator": "random",
+        "mean": 0.04666665941476822,
+        "ci95": [
+          -0.002499982714653015,
+          0.08999997874101003
+        ]
+      },
+      {
+        "metric": "new_accuracy",
+        "comparator": "random",
+        "mean": -0.09583333134651184,
+        "ci95": [
+          -0.1350000003973643,
+          -0.059166669845581055
+        ]
+      },
+      {
+        "metric": "old_accuracy",
+        "comparator": "random",
+        "mean": 0.022500015795230865,
+        "ci95": [
+          -0.012499988079071045,
+          0.07375002652406693
+        ]
+      },
+      {
+        "metric": "new_acquisition",
+        "comparator": "random",
+        "mean": -0.08133333921432494,
+        "ci95": [
+          -0.1128333399693171,
+          -0.02333334287007649
+        ]
+      }
+    ],
+    "means": {
+      "baseline": {
+        "task1_accuracy": 0.4549999882777532,
+        "task2_accuracy": 0.5349999964237213,
+        "task3_accuracy": 0.6216666648785273,
+        "task4_accuracy": 0.6650000015894572,
+        "task5_accuracy": 0.8199999829133352,
+        "first_accuracy": 0.4549999882777532,
+        "new_accuracy": 0.8199999829133352,
+        "old_accuracy": 0.5691666702429453,
+        "new_acquisition": 0.8143333355585733
+      },
+      "scaffold": {
+        "task1_accuracy": 0.4866666595141093,
+        "task2_accuracy": 0.538333331545194,
+        "task3_accuracy": 0.6033333440621694,
+        "task4_accuracy": 0.7450000047683716,
+        "task5_accuracy": 0.7650000055631002,
+        "first_accuracy": 0.4866666595141093,
+        "new_accuracy": 0.7650000055631002,
+        "old_accuracy": 0.5933333436648051,
+        "new_acquisition": 0.707333328326543
+      },
+      "random1": {
+        "task1_accuracy": 0.4399999976158142,
+        "task2_accuracy": 0.5533333371082941,
+        "task3_accuracy": 0.5999999890724818,
+        "task4_accuracy": 0.7399999996026357,
+        "task5_accuracy": 0.8483333388964335,
+        "first_accuracy": 0.4399999976158142,
+        "new_accuracy": 0.8483333388964335,
+        "old_accuracy": 0.5833333283662796,
+        "new_acquisition": 0.7816666702429452
+      },
+      "random2": {
+        "task1_accuracy": 0.4400000025828679,
+        "task2_accuracy": 0.5116666605075201,
+        "task3_accuracy": 0.5566666622956594,
+        "task4_accuracy": 0.7249999940395355,
+        "task5_accuracy": 0.8733333349227905,
+        "first_accuracy": 0.4400000025828679,
+        "new_accuracy": 0.8733333349227905,
+        "old_accuracy": 0.5583333273728689,
+        "new_acquisition": 0.795666664838791
+      }
+    }
+  },
+  {
+    "dataset": "cifar100",
+    "complete_histories": 6,
+    "required_histories": 6,
+    "contrasts": [
+      {
+        "metric": "task1_accuracy",
+        "comparator": "baseline",
+        "mean": 0.03200000524520874,
+        "ci95": [
+          0.01066666841506958,
+          0.05500000715255737
+        ]
+      },
+      {
+        "metric": "task2_accuracy",
+        "comparator": "baseline",
+        "mean": 0.07566667099793752,
+        "ci95": [
+          0.03233333428700765,
+          0.1210000067949295
+        ]
+      },
+      {
+        "metric": "task3_accuracy",
+        "comparator": "baseline",
+        "mean": 0.19266665975252786,
+        "ci95": [
+          0.14000001549720764,
+          0.23599998156229654
+        ]
+      },
+      {
+        "metric": "task4_accuracy",
+        "comparator": "baseline",
+        "mean": 0.026333332061767578,
+        "ci95": [
+          0.0169999897480011,
+          0.03233334422111511
+        ]
+      },
+      {
+        "metric": "first_accuracy",
+        "comparator": "baseline",
+        "mean": 0.03200000524520874,
+        "ci95": [
+          0.01066666841506958,
+          0.05500000715255737
+        ]
+      },
+      {
+        "metric": "new_accuracy",
+        "comparator": "baseline",
+        "mean": 0.026333332061767578,
+        "ci95": [
+          0.0169999897480011,
+          0.03233334422111511
+        ]
+      },
+      {
+        "metric": "old_accuracy",
+        "comparator": "baseline",
+        "mean": 0.10011110703150432,
+        "ci95": [
+          0.07688888907432556,
+          0.117333322763443
+        ]
+      },
+      {
+        "metric": "new_acquisition",
+        "comparator": "baseline",
+        "mean": 0.0027999957402546904,
+        "ci95": [
+          -0.005800008773803711,
+          0.012799998124440473
+        ]
+      },
+      {
+        "metric": "task1_accuracy",
+        "comparator": "random",
+        "mean": 0.0633333387474219,
+        "ci95": [
+          0.03900000577171644,
+          0.08983333657185237
+        ]
+      },
+      {
+        "metric": "task2_accuracy",
+        "comparator": "random",
+        "mean": 0.07500000049670537,
+        "ci95": [
+          0.03750000397364298,
+          0.10899998744328816
+        ]
+      },
+      {
+        "metric": "task3_accuracy",
+        "comparator": "random",
+        "mean": 0.1281666581829389,
+        "ci95": [
+          0.10999998450279236,
+          0.16399999459584555
+        ]
+      },
+      {
+        "metric": "task4_accuracy",
+        "comparator": "random",
+        "mean": 0.011499986052513123,
+        "ci95": [
+          0.003666644295056661,
+          0.019666651884714764
+        ]
+      },
+      {
+        "metric": "first_accuracy",
+        "comparator": "random",
+        "mean": 0.0633333387474219,
+        "ci95": [
+          0.03900000577171644,
+          0.08983333657185237
+        ]
+      },
+      {
+        "metric": "new_accuracy",
+        "comparator": "random",
+        "mean": 0.011499986052513123,
+        "ci95": [
+          0.003666644295056661,
+          0.019666651884714764
+        ]
+      },
+      {
+        "metric": "old_accuracy",
+        "comparator": "random",
+        "mean": 0.08883332709471385,
+        "ci95": [
+          0.06955555578072865,
+          0.1107777605454127
+        ]
+      },
+      {
+        "metric": "new_acquisition",
+        "comparator": "random",
+        "mean": -0.02286667823791505,
+        "ci95": [
+          -0.035800009965896606,
+          -0.014000014464060481
+        ]
+      }
+    ],
+    "means": {
+      "baseline": {
+        "task1_accuracy": 0.3113333334525426,
+        "task2_accuracy": 0.3436666627724965,
+        "task3_accuracy": 0.49766666690508526,
+        "task4_accuracy": 0.8749999900658926,
+        "first_accuracy": 0.3113333334525426,
+        "new_accuracy": 0.8749999900658926,
+        "old_accuracy": 0.38422221938769024,
+        "new_acquisition": 0.8662000000476837
+      },
+      "scaffold": {
+        "task1_accuracy": 0.34333333869775134,
+        "task2_accuracy": 0.4193333337704341,
+        "task3_accuracy": 0.6903333266576132,
+        "task4_accuracy": 0.9013333221276602,
+        "first_accuracy": 0.34333333869775134,
+        "new_accuracy": 0.9013333221276602,
+        "old_accuracy": 0.4843333264191945,
+        "new_acquisition": 0.8689999957879384
+      },
+      "random1": {
+        "task1_accuracy": 0.2906666621565819,
+        "task2_accuracy": 0.33633333444595337,
+        "task3_accuracy": 0.5563333382209142,
+        "task4_accuracy": 0.8933333357175192,
+        "first_accuracy": 0.2906666621565819,
+        "new_accuracy": 0.8933333357175192,
+        "old_accuracy": 0.39444444080193836,
+        "new_acquisition": 0.8931333402792613
+      },
+      "random2": {
+        "task1_accuracy": 0.26933333774407703,
+        "task2_accuracy": 0.352333332101504,
+        "task3_accuracy": 0.5679999987284342,
+        "task4_accuracy": 0.8863333364327749,
+        "first_accuracy": 0.26933333774407703,
+        "new_accuracy": 0.8863333364327749,
+        "old_accuracy": 0.396555557847023,
+        "new_acquisition": 0.8906000077724457
+      }
+    }
+  }
+]

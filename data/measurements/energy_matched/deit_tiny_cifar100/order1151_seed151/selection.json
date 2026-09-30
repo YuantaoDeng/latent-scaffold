@@ -1,0 +1,72 @@
+[
+  {
+    "model": "deit_tiny",
+    "dataset": "cifar100",
+    "order": 1151,
+    "seed": 151,
+    "condition": "scaffold",
+    "target": 0.992935345107801,
+    "coefficient": 100.0,
+    "dose": 0.992935345107801,
+    "path": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/scaffold_100.csv",
+    "matched": true
+  },
+  {
+    "model": "deit_tiny",
+    "dataset": "cifar100",
+    "order": 1151,
+    "seed": 151,
+    "condition": "active_random1",
+    "target": 0.9929353434658763,
+    "coefficient": 10.0,
+    "dose": 0.9862636761102671,
+    "path": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/active_random1_10.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/baseline_0.csv"
+      },
+      {
+        "coefficient": 1.0,
+        "dose": 0.9243138074995586,
+        "path": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/active_random1_1.csv"
+      },
+      {
+        "coefficient": 10.0,
+        "dose": 0.9862636761102671,
+        "path": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/active_random1_10.csv"
+      }
+    ]
+  },
+  {
+    "model": "deit_tiny",
+    "dataset": "cifar100",
+    "order": 1151,
+    "seed": 151,
+    "condition": "active_random2",
+    "target": 0.9929353461353309,
+    "coefficient": 10.0,
+    "dose": 0.9842788508549624,
+    "path": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/active_random2_10.csv",
+    "matched": true,
+    "candidates": [
+      {
+        "coefficient": 0.0,
+        "dose": 0.0,
+        "path": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/baseline_0.csv"
+      },
+      {
+        "coefficient": 1.0,
+        "dose": 0.9645765470964452,
+        "path": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/active_random2_1.csv"
+      },
+      {
+        "coefficient": 10.0,
+        "dose": 0.9842788508549624,
+        "path": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/active_random2_10.csv"
+      }
+    ]
+  }
+]

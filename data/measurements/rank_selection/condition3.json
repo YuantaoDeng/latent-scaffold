@@ -1,0 +1,7 @@
+{
+  "k": 20,
+  "r": 20,
+  "one_se_used": false,
+  "response_draws": 16,
+  "reason": "explicit user choice; retain completed target metrics; complete all response checkpoints"
+}

@@ -1,0 +1,15 @@
+{
+  "complete": true,
+  "source_histories": 6,
+  "test_histories": 12,
+  "rank": 24,
+  "tasks": 5,
+  "replay_images": 0,
+  "scaffold_projectors_rebuilt": true,
+  "projection_error": 1.942890293094024e-16,
+  "motion_rows": 48,
+  "update_rows": 432,
+  "all_tasks_successful_steps": 75,
+  "response_covariances": 36,
+  "anchor_disjointness": true
+}

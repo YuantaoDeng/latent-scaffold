@@ -1,0 +1,336 @@
+{
+  "accuracy_backfill": [
+    "all_model_followups_config",
+    "analyze_scaffold_followup",
+    "drift_experiment",
+    "experiment_control",
+    "lossless_checkpoint",
+    "package_paths"
+  ],
+  "lossless_checkpoint": [],
+  "experiment_control": [
+    "drift_experiment",
+    "package_paths",
+    "revision_jobs"
+  ],
+  "revision_jobs": [
+    "accuracy_backfill",
+    "all_model_causal",
+    "experiment_control",
+    "package_paths",
+    "retention_replication",
+    "scaffold_enhancement",
+    "summarize_all_model_causal",
+    "summarize_retention_replication",
+    "summarize_scaffold_enhancement",
+    "summarize_windowed_penalty",
+    "windowed_scaffold_penalty"
+  ],
+  "summarize_windowed_penalty": [],
+  "summarize_retention_replication": [],
+  "summarize_scaffold_enhancement": [],
+  "all_model_causal": [
+    "all_model_causal",
+    "all_model_followups_config",
+    "package_paths",
+    "scaffold_enhancement"
+  ],
+  "scaffold_enhancement": [
+    "analyze_scaffold_followup",
+    "drift_experiment",
+    "experiment_control",
+    "package_paths",
+    "scaffold_intervention"
+  ],
+  "analyze_scaffold_followup": [
+    "analyze_simple_sources_function",
+    "drift_experiment",
+    "package_paths",
+    "phase_c_direction"
+  ],
+  "phase_c_direction": [
+    "drift_experiment"
+  ],
+  "drift_experiment": [],
+  "analyze_simple_sources_function": [
+    "analyze_prospective_atlas",
+    "drift_experiment",
+    "package_paths",
+    "temporal_drift_reuse"
+  ],
+  "temporal_drift_reuse": [
+    "drift_experiment",
+    "phase_c_adapter_direction",
+    "phase_c_direction"
+  ],
+  "phase_c_adapter_direction": [
+    "drift_experiment",
+    "phase_c_direction"
+  ],
+  "analyze_prospective_atlas": [
+    "package_paths",
+    "phase_c_adapter_direction",
+    "temporal_drift_reuse"
+  ],
+  "scaffold_intervention": [
+    "drift_experiment",
+    "package_paths"
+  ],
+  "all_model_followups_config": [
+    "package_paths"
+  ],
+  "summarize_all_model_causal": [
+    "package_paths"
+  ],
+  "retention_replication": [
+    "drift_experiment",
+    "experiment_control",
+    "package_paths",
+    "retention_replication",
+    "scaffold_intervention"
+  ],
+  "windowed_scaffold_penalty": [
+    "all_model_causal",
+    "package_paths",
+    "scaffold_enhancement"
+  ],
+  "mixer_lambda100_energy_matched_queue": [
+    "all_model_causal",
+    "package_paths",
+    "relative90_worker"
+  ],
+  "relative90_worker": [
+    "all_model_causal",
+    "package_paths"
+  ],
+  "deit_lambda100_energy_matched_queue": [
+    "all_model_causal",
+    "package_paths",
+    "relative90_worker"
+  ],
+  "cifar100_lambda100_energy_matched_queue": [
+    "all_model_causal",
+    "package_paths",
+    "relative90_worker"
+  ],
+  "cifar10_lambda100_energy_matched_queue": [
+    "all_model_causal",
+    "package_paths",
+    "relative90_worker"
+  ],
+  "resnet_cifar10_unified_main": [
+    "all_model_causal",
+    "relative90_queue"
+  ],
+  "relative90_queue": [
+    "all_model_causal",
+    "package_paths",
+    "relative90_worker"
+  ],
+  "noreplay_resnet_cifar10": [
+    "analyze_scaffold_followup",
+    "drift_experiment",
+    "package_paths"
+  ],
+  "run_noreplay_all": [
+    "analyze_noreplay_all",
+    "noreplay_all_common",
+    "noreplay_all_worker",
+    "report_noreplay_all"
+  ],
+  "report_noreplay_all": [
+    "noreplay_all_common",
+    "package_paths"
+  ],
+  "noreplay_all_common": [
+    "all_model_followups_config",
+    "analyze_scaffold_followup",
+    "drift_experiment",
+    "lossless_checkpoint",
+    "package_paths"
+  ],
+  "noreplay_all_worker": [
+    "analyze_scaffold_followup",
+    "drift_experiment",
+    "mixer_update_measurement",
+    "noreplay_all_common",
+    "package_paths"
+  ],
+  "mixer_update_measurement": [
+    "analyze_scaffold_followup"
+  ],
+  "analyze_noreplay_all": [
+    "analyze_scaffold_followup",
+    "drift_experiment",
+    "noreplay_all_common",
+    "package_paths"
+  ],
+  "run_multistep_isolated": [
+    "package_paths",
+    "run_multistep_case"
+  ],
+  "run_multistep_case": [
+    "package_paths",
+    "pilot_multistep_updates"
+  ],
+  "pilot_multistep_updates": [
+    "analyze_scaffold_followup",
+    "drift_experiment",
+    "mixer_update_measurement",
+    "package_paths",
+    "phase_c_direction",
+    "resnet_temporal_dimension"
+  ],
+  "resnet_temporal_dimension": [
+    "analyze_random_control_audit",
+    "analyze_scaffold_followup",
+    "analyze_simple_sources_function",
+    "deit_three_claims",
+    "package_paths",
+    "phase_c_direction"
+  ],
+  "analyze_random_control_audit": [
+    "analyze_prospective_atlas",
+    "phase_c_adapter_direction",
+    "temporal_drift_reuse"
+  ],
+  "deit_three_claims": [
+    "analyze_prospective_atlas",
+    "analyze_scaffold_followup",
+    "analyze_simple_sources_function",
+    "package_paths",
+    "phase_c_direction",
+    "temporal_drift_reuse"
+  ],
+  "run_all_multistep_updates": [
+    "additional_rank_models",
+    "package_paths",
+    "pilot_multistep_updates"
+  ],
+  "additional_rank_models": [
+    "analyze_scaffold_followup",
+    "analyze_simple_sources_function",
+    "deit_three_claims",
+    "package_paths",
+    "resnet_temporal_dimension",
+    "sequence_drift_experiment"
+  ],
+  "sequence_drift_experiment": [
+    "analyze_atlas_scaling",
+    "analyze_prospective_atlas",
+    "drift_experiment",
+    "package_paths",
+    "phase_c_direction",
+    "temporal_drift_lag",
+    "temporal_drift_reuse"
+  ],
+  "analyze_atlas_scaling": [
+    "analyze_prospective_atlas",
+    "package_paths",
+    "temporal_drift_reuse"
+  ],
+  "temporal_drift_lag": [
+    "drift_experiment",
+    "phase_c_adapter_direction",
+    "phase_c_direction",
+    "temporal_drift_reuse"
+  ],
+  "run_remaining_cifar100_content": [
+    "all_model_content_worker",
+    "analyze_resnet_cifar100_content",
+    "package_paths",
+    "resnet_cifar100_content",
+    "summarize_cifar100_three_task"
+  ],
+  "summarize_cifar100_three_task": [
+    "package_paths"
+  ],
+  "all_model_content_worker": [
+    "all_model_followups_config",
+    "analyze_scaffold_followup",
+    "drift_experiment",
+    "early_content_scaffold_pilot"
+  ],
+  "early_content_scaffold_pilot": [
+    "analyze_scaffold_followup",
+    "drift_experiment",
+    "paired_history_memory_pilot"
+  ],
+  "paired_history_memory_pilot": [
+    "analyze_scaffold_followup",
+    "drift_experiment",
+    "package_paths"
+  ],
+  "resnet_cifar100_content": [
+    "all_model_content_worker",
+    "analyze_resnet_cifar100_content"
+  ],
+  "analyze_resnet_cifar100_content": [
+    "all_model_followups_config",
+    "package_paths",
+    "resnet_cifar100_content",
+    "summarize_all_model_followups"
+  ],
+  "summarize_all_model_followups": [
+    "all_model_followups_config",
+    "analyze_scaffold_followup",
+    "package_paths"
+  ],
+  "run_all_model_content": [
+    "all_model_content_worker"
+  ],
+  "mlp_rnn_extension": [
+    "additional_rank_models",
+    "analyze_scaffold_followup",
+    "deit_three_claims",
+    "finalize_final_rank_rule",
+    "package_paths",
+    "report_additional_rank_models"
+  ],
+  "report_additional_rank_models": [
+    "additional_rank_models",
+    "analyze_scaffold_followup",
+    "deit_three_claims",
+    "finalize_final_rank_rule",
+    "package_paths"
+  ],
+  "finalize_final_rank_rule": [
+    "analyze_scaffold_followup",
+    "deit_three_claims",
+    "final_rank_experiments",
+    "package_paths"
+  ],
+  "final_rank_experiments": [
+    "analyze_scaffold_followup",
+    "deit_cifar10_dimension",
+    "deit_three_claims",
+    "package_paths",
+    "recompute_deit_cifar10_current_rank",
+    "resnet_temporal_dimension",
+    "sequence_drift_experiment"
+  ],
+  "recompute_deit_cifar10_current_rank": [
+    "analyze_scaffold_followup",
+    "final_rank_experiments",
+    "resnet_temporal_dimension"
+  ],
+  "deit_cifar10_dimension": [
+    "analyze_scaffold_followup",
+    "deit_three_claims",
+    "package_paths",
+    "resnet_temporal_dimension",
+    "sequence_drift_experiment"
+  ],
+  "deit_pca_dimension": [
+    "analyze_scaffold_followup",
+    "deit_three_claims",
+    "package_paths",
+    "resnet_temporal_dimension"
+  ],
+  "deit_rank20_existing": [
+    "analyze_scaffold_followup",
+    "deit_three_claims",
+    "resnet_temporal_dimension"
+  ],
+  "package_paths": []
+}

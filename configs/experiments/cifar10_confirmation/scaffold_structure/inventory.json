@@ -1,0 +1,3818 @@
+[
+  {
+    "role": "source",
+    "path": "results/cifar10_confirmation/source_order2003/artifacts/order2003_seed160.pt",
+    "manifest_path": "results/cifar10_confirmation/source_order2003/manifest.json",
+    "order_seed": 2003,
+    "seed": 160,
+    "pre_future_model_saved": false,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2003,
+      "seed": 160,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      }
+    }
+  },
+  {
+    "role": "source",
+    "path": "results/cifar10_confirmation/source_order2003/artifacts/order2003_seed161.pt",
+    "manifest_path": "results/cifar10_confirmation/source_order2003/manifest.json",
+    "order_seed": 2003,
+    "seed": 161,
+    "pre_future_model_saved": false,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2003,
+      "seed": 161,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      }
+    }
+  },
+  {
+    "role": "source",
+    "path": "results/cifar10_confirmation/source_order2011/artifacts/order2011_seed160.pt",
+    "manifest_path": "results/cifar10_confirmation/source_order2011/manifest.json",
+    "order_seed": 2011,
+    "seed": 160,
+    "pre_future_model_saved": false,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2011,
+      "seed": 160,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      }
+    }
+  },
+  {
+    "role": "source",
+    "path": "results/cifar10_confirmation/source_order2011/artifacts/order2011_seed161.pt",
+    "manifest_path": "results/cifar10_confirmation/source_order2011/manifest.json",
+    "order_seed": 2011,
+    "seed": 161,
+    "pre_future_model_saved": false,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2011,
+      "seed": 161,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      }
+    }
+  },
+  {
+    "role": "source",
+    "path": "results/cifar10_confirmation/source_order2017/artifacts/order2017_seed160.pt",
+    "manifest_path": "results/cifar10_confirmation/source_order2017/manifest.json",
+    "order_seed": 2017,
+    "seed": 160,
+    "pre_future_model_saved": false,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2017,
+      "seed": 160,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      }
+    }
+  },
+  {
+    "role": "source",
+    "path": "results/cifar10_confirmation/source_order2017/artifacts/order2017_seed161.pt",
+    "manifest_path": "results/cifar10_confirmation/source_order2017/manifest.json",
+    "order_seed": 2017,
+    "seed": 161,
+    "pre_future_model_saved": false,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2017,
+      "seed": 161,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2101/artifacts/order2101_seed170.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2101/manifest.json",
+    "order_seed": 2101,
+    "seed": 170,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2101,
+      "seed": 170,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2101/artifacts/order2101_seed171.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2101/manifest.json",
+    "order_seed": 2101,
+    "seed": 171,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2101,
+      "seed": 171,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2111/artifacts/order2111_seed170.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2111/manifest.json",
+    "order_seed": 2111,
+    "seed": 170,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2111,
+      "seed": 170,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2111/artifacts/order2111_seed171.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2111/manifest.json",
+    "order_seed": 2111,
+    "seed": 171,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2111,
+      "seed": 171,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2129/artifacts/order2129_seed170.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2129/manifest.json",
+    "order_seed": 2129,
+    "seed": 170,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2129,
+      "seed": 170,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2129/artifacts/order2129_seed171.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2129/manifest.json",
+    "order_seed": 2129,
+    "seed": 171,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2129,
+      "seed": 171,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2131/artifacts/order2131_seed170.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2131/manifest.json",
+    "order_seed": 2131,
+    "seed": 170,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2131,
+      "seed": 170,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2131/artifacts/order2131_seed171.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2131/manifest.json",
+    "order_seed": 2131,
+    "seed": 171,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2131,
+      "seed": 171,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2137/artifacts/order2137_seed170.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2137/manifest.json",
+    "order_seed": 2137,
+    "seed": 170,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2137,
+      "seed": 170,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2137/artifacts/order2137_seed171.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2137/manifest.json",
+    "order_seed": 2137,
+    "seed": 171,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2137,
+      "seed": 171,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2141/artifacts/order2141_seed170.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2141/manifest.json",
+    "order_seed": 2141,
+    "seed": 170,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2141,
+      "seed": 170,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/cifar10_confirmation/target_order2141/artifacts/order2141_seed171.pt",
+    "manifest_path": "results/cifar10_confirmation/target_order2141/manifest.json",
+    "order_seed": 2141,
+    "seed": 171,
+    "pre_future_model_saved": true,
+    "schema": {
+      "dataset": "cifar10",
+      "tasks": 5,
+      "order_seed": 2141,
+      "seed": 171,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          100,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          3
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          509
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "layers": {
+        "stage1": {
+          "historical_drift_centered": [
+            500,
+            64
+          ],
+          "future_drift_centered": [
+            100,
+            64
+          ],
+          "static_covariance": [
+            64,
+            64
+          ]
+        },
+        "stage2": {
+          "historical_drift_centered": [
+            500,
+            128
+          ],
+          "future_drift_centered": [
+            100,
+            128
+          ],
+          "static_covariance": [
+            128,
+            128
+          ]
+        },
+        "stage3": {
+          "historical_drift_centered": [
+            500,
+            256
+          ],
+          "future_drift_centered": [
+            100,
+            256
+          ],
+          "static_covariance": [
+            256,
+            256
+          ]
+        },
+        "stage4": {
+          "historical_drift_centered": [
+            500,
+            512
+          ],
+          "future_drift_centered": [
+            100,
+            512
+          ],
+          "static_covariance": [
+            512,
+            512
+          ]
+        }
+      },
+      "pre_future_state_dict": {
+        "keys": [
+          "conv1.weight",
+          "bn1.weight",
+          "bn1.bias",
+          "bn1.running_mean",
+          "bn1.running_var",
+          "bn1.num_batches_tracked",
+          "layer1.0.conv1.weight",
+          "layer1.0.bn1.weight",
+          "layer1.0.bn1.bias",
+          "layer1.0.bn1.running_mean",
+          "layer1.0.bn1.running_var",
+          "layer1.0.bn1.num_batches_tracked",
+          "layer1.0.conv2.weight",
+          "layer1.0.bn2.weight",
+          "layer1.0.bn2.bias",
+          "layer1.0.bn2.running_mean",
+          "layer1.0.bn2.running_var",
+          "layer1.0.bn2.num_batches_tracked",
+          "layer1.1.conv1.weight",
+          "layer1.1.bn1.weight",
+          "layer1.1.bn1.bias",
+          "layer1.1.bn1.running_mean",
+          "layer1.1.bn1.running_var",
+          "layer1.1.bn1.num_batches_tracked",
+          "layer1.1.conv2.weight",
+          "layer1.1.bn2.weight",
+          "layer1.1.bn2.bias",
+          "layer1.1.bn2.running_mean",
+          "layer1.1.bn2.running_var",
+          "layer1.1.bn2.num_batches_tracked",
+          "layer2.0.conv1.weight",
+          "layer2.0.bn1.weight",
+          "layer2.0.bn1.bias",
+          "layer2.0.bn1.running_mean",
+          "layer2.0.bn1.running_var",
+          "layer2.0.bn1.num_batches_tracked",
+          "layer2.0.conv2.weight",
+          "layer2.0.bn2.weight",
+          "layer2.0.bn2.bias",
+          "layer2.0.bn2.running_mean",
+          "layer2.0.bn2.running_var",
+          "layer2.0.bn2.num_batches_tracked",
+          "layer2.0.downsample.0.weight",
+          "layer2.0.downsample.1.weight",
+          "layer2.0.downsample.1.bias",
+          "layer2.0.downsample.1.running_mean",
+          "layer2.0.downsample.1.running_var",
+          "layer2.0.downsample.1.num_batches_tracked",
+          "layer2.1.conv1.weight",
+          "layer2.1.bn1.weight",
+          "layer2.1.bn1.bias",
+          "layer2.1.bn1.running_mean",
+          "layer2.1.bn1.running_var",
+          "layer2.1.bn1.num_batches_tracked",
+          "layer2.1.conv2.weight",
+          "layer2.1.bn2.weight",
+          "layer2.1.bn2.bias",
+          "layer2.1.bn2.running_mean",
+          "layer2.1.bn2.running_var",
+          "layer2.1.bn2.num_batches_tracked",
+          "layer3.0.conv1.weight",
+          "layer3.0.bn1.weight",
+          "layer3.0.bn1.bias",
+          "layer3.0.bn1.running_mean",
+          "layer3.0.bn1.running_var",
+          "layer3.0.bn1.num_batches_tracked",
+          "layer3.0.conv2.weight",
+          "layer3.0.bn2.weight",
+          "layer3.0.bn2.bias",
+          "layer3.0.bn2.running_mean",
+          "layer3.0.bn2.running_var",
+          "layer3.0.bn2.num_batches_tracked",
+          "layer3.0.downsample.0.weight",
+          "layer3.0.downsample.1.weight",
+          "layer3.0.downsample.1.bias",
+          "layer3.0.downsample.1.running_mean",
+          "layer3.0.downsample.1.running_var",
+          "layer3.0.downsample.1.num_batches_tracked",
+          "layer3.1.conv1.weight",
+          "layer3.1.bn1.weight",
+          "layer3.1.bn1.bias",
+          "layer3.1.bn1.running_mean",
+          "layer3.1.bn1.running_var",
+          "layer3.1.bn1.num_batches_tracked",
+          "layer3.1.conv2.weight",
+          "layer3.1.bn2.weight",
+          "layer3.1.bn2.bias",
+          "layer3.1.bn2.running_mean",
+          "layer3.1.bn2.running_var",
+          "layer3.1.bn2.num_batches_tracked",
+          "layer4.0.conv1.weight",
+          "layer4.0.bn1.weight",
+          "layer4.0.bn1.bias",
+          "layer4.0.bn1.running_mean",
+          "layer4.0.bn1.running_var",
+          "layer4.0.bn1.num_batches_tracked",
+          "layer4.0.conv2.weight",
+          "layer4.0.bn2.weight",
+          "layer4.0.bn2.bias",
+          "layer4.0.bn2.running_mean",
+          "layer4.0.bn2.running_var",
+          "layer4.0.bn2.num_batches_tracked",
+          "layer4.0.downsample.0.weight",
+          "layer4.0.downsample.1.weight",
+          "layer4.0.downsample.1.bias",
+          "layer4.0.downsample.1.running_mean",
+          "layer4.0.downsample.1.running_var",
+          "layer4.0.downsample.1.num_batches_tracked",
+          "layer4.1.conv1.weight",
+          "layer4.1.bn1.weight",
+          "layer4.1.bn1.bias",
+          "layer4.1.bn1.running_mean",
+          "layer4.1.bn1.running_var",
+          "layer4.1.bn1.num_batches_tracked",
+          "layer4.1.conv2.weight",
+          "layer4.1.bn2.weight",
+          "layer4.1.bn2.bias",
+          "layer4.1.bn2.running_mean",
+          "layer4.1.bn2.running_var",
+          "layer4.1.bn2.num_batches_tracked",
+          "fc.weight",
+          "fc.bias"
+        ]
+      }
+    }
+  }
+]

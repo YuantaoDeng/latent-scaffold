@@ -1,0 +1,70 @@
+{
+  "condition": 2,
+  "short": "deit_tiny",
+  "dataset": "cifar10",
+  "source": "results/final_rank_rule/deit/cifar10/target_order2137/artifacts/order2137_seed170.pt",
+  "order": 2137,
+  "seed": 170,
+  "mode": "suppress",
+  "model": "deit_tiny_patch16_224",
+  "rank": 8,
+  "task": 5,
+  "epochs": 5,
+  "source_sha256": "bdfa95ea79ed30bb61887719cecaafeea7d9036fcda42c7b5cfe8c165845caf4",
+  "scaffold_source": "results/final_rank_rule/deit/cifar10/rank8/predictors.pt",
+  "scaffold_sha256": "8a22c437aeb6e478e2da5fded61d0b4e9826f5a27a1a8f6695b5efa60a18db35",
+  "recovered_source": null,
+  "checks": {
+    "orthogonality_passed": true,
+    "gradient_algebra_passed": true,
+    "excluded_eval_disjoint": true,
+    "reference_batch_max_error": 6.377696990966797e-06
+  },
+  "amp_enabled": true,
+  "classifier": "trainable; all seen classes compete",
+  "initialization": "saved pre-final-task; fresh paired continuation, not original trajectory replay",
+  "branches": [
+    [
+      "baseline",
+      0.0
+    ],
+    [
+      "scaffold",
+      1.0
+    ],
+    [
+      "random1",
+      1.0
+    ],
+    [
+      "random2",
+      1.0
+    ],
+    [
+      "scaffold",
+      10.0
+    ],
+    [
+      "random1",
+      10.0
+    ],
+    [
+      "random2",
+      10.0
+    ],
+    [
+      "scaffold",
+      100.0
+    ],
+    [
+      "random1",
+      100.0
+    ],
+    [
+      "random2",
+      100.0
+    ]
+  ],
+  "storage": "epoch-resume model retained until branch completed; final per-example predictions/features and all-task curves retained; no redundant final weights",
+  "precision": "FP32 penalty/observation; AMP classification except MobileNet; scaler128"
+}

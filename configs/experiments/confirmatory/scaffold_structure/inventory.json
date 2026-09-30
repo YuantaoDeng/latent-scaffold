@@ -1,0 +1,1226 @@
+[
+  {
+    "role": "source",
+    "path": "results/confirmatory/hf_source_order1009/artifacts/order1009_seed140.pt",
+    "manifest_path": "results/confirmatory/hf_source_order1009/manifest.json",
+    "order_seed": 1009,
+    "seed": 140,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1009,
+      "seed": 140,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "source",
+    "path": "results/confirmatory/hf_source_order1009/artifacts/order1009_seed141.pt",
+    "manifest_path": "results/confirmatory/hf_source_order1009/manifest.json",
+    "order_seed": 1009,
+    "seed": 141,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1009,
+      "seed": 141,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "source",
+    "path": "results/confirmatory/hf_source_order1013/artifacts/order1013_seed140.pt",
+    "manifest_path": "results/confirmatory/hf_source_order1013/manifest.json",
+    "order_seed": 1013,
+    "seed": 140,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1013,
+      "seed": 140,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "source",
+    "path": "results/confirmatory/hf_source_order1013/artifacts/order1013_seed141.pt",
+    "manifest_path": "results/confirmatory/hf_source_order1013/manifest.json",
+    "order_seed": 1013,
+    "seed": 141,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1013,
+      "seed": 141,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "source",
+    "path": "results/confirmatory/hf_source_order1019/artifacts/order1019_seed140.pt",
+    "manifest_path": "results/confirmatory/hf_source_order1019/manifest.json",
+    "order_seed": 1019,
+    "seed": 140,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1019,
+      "seed": 140,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "source",
+    "path": "results/confirmatory/hf_source_order1019/artifacts/order1019_seed141.pt",
+    "manifest_path": "results/confirmatory/hf_source_order1019/manifest.json",
+    "order_seed": 1019,
+    "seed": 141,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1019,
+      "seed": 141,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1103/artifacts/order1103_seed150.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1103/manifest.json",
+    "order_seed": 1103,
+    "seed": 150,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1103,
+      "seed": 150,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1103/artifacts/order1103_seed151.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1103/manifest.json",
+    "order_seed": 1103,
+    "seed": 151,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1103,
+      "seed": 151,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1109/artifacts/order1109_seed150.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1109/manifest.json",
+    "order_seed": 1109,
+    "seed": 150,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1109,
+      "seed": 150,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1109/artifacts/order1109_seed151.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1109/manifest.json",
+    "order_seed": 1109,
+    "seed": 151,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1109,
+      "seed": 151,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1117/artifacts/order1117_seed150.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1117/manifest.json",
+    "order_seed": 1117,
+    "seed": 150,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1117,
+      "seed": 150,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1117/artifacts/order1117_seed151.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1117/manifest.json",
+    "order_seed": 1117,
+    "seed": 151,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1117,
+      "seed": 151,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1123/artifacts/order1123_seed150.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1123/manifest.json",
+    "order_seed": 1123,
+    "seed": 150,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1123,
+      "seed": 150,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1123/artifacts/order1123_seed151.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1123/manifest.json",
+    "order_seed": 1123,
+    "seed": 151,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1123,
+      "seed": 151,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1129/artifacts/order1129_seed150.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1129/manifest.json",
+    "order_seed": 1129,
+    "seed": 150,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1129,
+      "seed": 150,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1129/artifacts/order1129_seed151.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1129/manifest.json",
+    "order_seed": 1129,
+    "seed": 151,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1129,
+      "seed": 151,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1151/artifacts/order1151_seed150.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1151/manifest.json",
+    "order_seed": 1151,
+    "seed": 150,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1151,
+      "seed": 150,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  },
+  {
+    "role": "target",
+    "path": "results/confirmatory/hf_target_order1151/artifacts/order1151_seed151.pt",
+    "manifest_path": "results/confirmatory/hf_target_order1151/manifest.json",
+    "order_seed": 1151,
+    "seed": 151,
+    "pre_future_model_saved": false,
+    "schema": {
+      "order_seed": 1151,
+      "seed": 151,
+      "historical_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "historical_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "future_drift_centered": {
+        "shape": [
+          500,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "discriminative_basis": {
+        "shape": [
+          512,
+          19
+        ],
+        "dtype": "torch.float32"
+      },
+      "null_basis": {
+        "shape": [
+          512,
+          493
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_basis": {
+        "shape": [
+          512,
+          8
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_pca_full": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      },
+      "static_covariance": {
+        "shape": [
+          512,
+          512
+        ],
+        "dtype": "torch.float32"
+      }
+    }
+  }
+]

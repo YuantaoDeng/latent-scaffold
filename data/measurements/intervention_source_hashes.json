@@ -1,0 +1,158 @@
+[
+  {
+    "source": "results/scaffold_intervention/order2101/baseline.csv",
+    "sha256": "384b2db8d1741de9a535ecde2636d1f3edfeb8e79a18fed4b137cdc763b19bbc"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/random1_lambda1.csv",
+    "sha256": "9542bcfbaf720d6ec27902b75661ba57961298e20f2feadc41a147096dd21a00"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/random1_lambda10.csv",
+    "sha256": "0ffc8e417d2bae1bbe1463cb9cd934eb328eecbca8cc5fc9a2665ff79b691bb3"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/random1_lambda100.csv",
+    "sha256": "b03b4d09f381c046a57ef9d6c9b01a93a9d04b236119ac3caf8615227616db89"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/random2_lambda1.csv",
+    "sha256": "6e6ab8b20584e9b6e0fffd5728feb6a57fadc9aa5b3389a613f22d9760025e41"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/random2_lambda10.csv",
+    "sha256": "a033ea614aa42a6142c6a9a7776ffcacfe25adc56c0a84a429af1c77e05d1ab9"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/random2_lambda100.csv",
+    "sha256": "48eaf457e10a0fd263d1f06fb1decf510ea414d4eb6401039571652284443e04"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/scaffold_lambda0.001.csv",
+    "sha256": "0523099448b406d181c0e9b6259374eb8d02108e8a92eb66155f07ff177041ee"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/scaffold_lambda0.01.csv",
+    "sha256": "31f76e14c07a13c4de51222395f7974a64295ef1070dbab3ab6062993f403e69"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/scaffold_lambda0.1.csv",
+    "sha256": "a6ba699bfb1e205c62ab9e5d2f3e244e8061620e6a50e9a992793246ce3ee6f7"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/scaffold_lambda1.csv",
+    "sha256": "073a1481d324539bbf2f4832a9899358d57c3d01d75ca564cc46d1ae5efd39f3"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/scaffold_lambda10.csv",
+    "sha256": "82e2106e9c32a82c29ebd97d14449ed288c25112b407ea0e25c7749ef2db933a"
+  },
+  {
+    "source": "results/scaffold_intervention/order2101/scaffold_lambda100.csv",
+    "sha256": "0235a97eb4be5746798de9aacad28ac5e55df40e2ccdccf4833c7809eeac28ee"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/baseline.csv",
+    "sha256": "12beaad27673d1c04eeeb4095126d4c4f94fe7b387f0d8b26c51a8b77cb4b838"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/random1_lambda1.csv",
+    "sha256": "287deb568d20209a2347f329d9aed58c82193e078b6de699a24c56aec43e63d2"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/random1_lambda10.csv",
+    "sha256": "9f8a9350c3af703ebde15640d1c966bd221c599a45b7db20e7c8900066e99faf"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/random1_lambda100.csv",
+    "sha256": "528e8ba1a4f3c2126fbd6160570aaf4793435d10d2d3363683dc198a6ea7a31a"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/random2_lambda1.csv",
+    "sha256": "0bc1a4c457d9b13e301e521f2c8ea2311638a3dce06acf1f8e115f5323a953c3"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/random2_lambda10.csv",
+    "sha256": "5ac975ed5a351a3e860afc8a025b6f55cb4bb2aa1889431e117d7bda5bf325dc"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/random2_lambda100.csv",
+    "sha256": "902f8e0254d9cc3415bf75c190d7f83d5b5fda0af2419d4877351845fc7963d0"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/scaffold_lambda0.001.csv",
+    "sha256": "7bf3a4c7814a2fb4643f0465f11759c20abb1075878b9ff5fb255fb55c5c7ef6"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/scaffold_lambda0.01.csv",
+    "sha256": "15d1035ab5c834ba25dd7403c618cdf129e7e770149a447d3c61cbeba6689315"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/scaffold_lambda0.1.csv",
+    "sha256": "d32e15e6e2d51068cda9e95c6712e4abf6fbb54e30721b6599db0f544da6bf16"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/scaffold_lambda1.csv",
+    "sha256": "70cbf085ccdaac27899f4c5c03df32653f2fba40847626eecde171ad78433c7e"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/scaffold_lambda10.csv",
+    "sha256": "b0b7f91c53326fa8441d6f01aa636cf8548d8f4f53a1cccabe96a38193d54ce6"
+  },
+  {
+    "source": "results/scaffold_intervention/order2111/scaffold_lambda100.csv",
+    "sha256": "e10d720de51ab207ccbe664d6733ab9408b7115e5cba3a67d885d15da79b870b"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/baseline.csv",
+    "sha256": "05e3744ad673dc6dbf187e902b676d6a95873ec74d93f4870eb9a5c6056f487f"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/random1_lambda1.csv",
+    "sha256": "858bf0a30287a437b8206a670b025855bd448f8ed7583c7666bf1bbe5bb98f3a"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/random1_lambda10.csv",
+    "sha256": "173fbc65541a45879e6765e6991bff055623788835756401b5369d394433a695"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/random1_lambda100.csv",
+    "sha256": "e9a6f98fbb2504817ab19ff6be5e8fbb899cd52f643f2ae2f9b30fd25950f454"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/random2_lambda1.csv",
+    "sha256": "0c3a1cb19b58969f9349ae677197f12ce58d9f3474f5038fa618d1a066bce697"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/random2_lambda10.csv",
+    "sha256": "0b6f2c15801a1ee4f0991246dded0c0c3340fea276aa18b06227053a1a373b5f"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/random2_lambda100.csv",
+    "sha256": "db13c01831ca86dceb85303229ce16c067d75fdffa39a3626c33d1615ce35e58"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/scaffold_lambda0.001.csv",
+    "sha256": "b7e3a9800f5174c74cfea1a5b561cfd11427ffff46f9d77bd68b7350a60300c7"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/scaffold_lambda0.01.csv",
+    "sha256": "4225e29dfcde310697a5ee4736be9a0c6437666f6ba45e3509017acc0571ccc9"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/scaffold_lambda0.1.csv",
+    "sha256": "8330afa3169fb02b56a8a4d0d320c800507e91c4c40b6571d600ab55ec76753a"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/scaffold_lambda1.csv",
+    "sha256": "6f3e1055f3893a6b5822c3a1cc9e3131512d7a5479eaa2bf8bd1c5eba4d68fba"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/scaffold_lambda10.csv",
+    "sha256": "b2977650b78f39e1f006bd9426c8d7faf0c9c1f9a96a02e3d5ded8cb1810a284"
+  },
+  {
+    "source": "results/scaffold_intervention/order2129/scaffold_lambda100.csv",
+    "sha256": "2bae9c72a5e7b15bf6bebedb606eb28aceabee81392d1aff69b51127568556c7"
+  }
+]

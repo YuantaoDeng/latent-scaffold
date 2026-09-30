@@ -1,0 +1,19 @@
+# MLP-Mixer and visual LSTM extension
+
+Run MLP-Mixer-B/16 (`mixer_b16_224.goog_in21k_ft_in1k`) first, then Sequencer2D-S (`sequencer2d_s.in1k`). Evaluate CIFAR-100 and CIFAR-10 for each. Retain every result; do not search new variants until a positive model is found. The user's current request authorizes these two models, superseding the prior stop-after-MobileNet instruction.
+
+Use the established source orders and optimization seeds (6 source trajectories) and target orders and seeds (12 target trajectories) per dataset. Training remains five epochs/task, AdamW 3e-4 with weight decay .05, ER replay 500, batch 64, existing class subsets and anchor selection. As in the baseline, training and saved trajectory inference use AMP (outputs stored as float32); perturbation and actual-update field inference use FP32. CIFAR-100 remains the original four tasks of ten classes, not all 100 classes. CIFAR-10 remains five tasks of two classes.
+
+Before any target evaluation, select k=r from 8..32: the smallest rank with positive mean source-order-held-out future-drift coverage gain over construction-matched Representation PCA. Use no one-SE rule and no maximization. If none qualifies, report no eligible dimension and do not invent a fallback. Auxiliary trajectory generation rank 8 does not constrain training; recompute all final metrics at the source-selected rank.
+
+Keep the scaffold from source 1->2 drift fixed. Measure every checkpoint (0..4 / 0..5), using 16 paired Gaussian encoder-parameter directions, relative global norm 1e-4, FP32 evaluation, fixed checkpoint buffers. Preserve pooled and individual overlap, response energy coverage, temporal drift coverage, matched random and PCA controls, second successful actual AdamW update, norm-matched gradient, and frozen conditional logit/loss reconstruction scores.
+
+Three core claims are assessed separately: (1) every target temporal matched-random coverage-gain interval has positive lower bound; (2) checkpoint-2 alignment gain over initialization and learned-response transfer have positive lower bounds; (3) actual-update coverage and frozen-logit reconstruction gains have positive lower bounds. Final-checkpoint alignment and loss reconstruction are extensions, not extra requirements silently imposed on all three claims. Report the original stricter ResNet-pattern diagnostic too. Do not claim monotonic overlap unless the full trajectory supports it. Bootstrap intervals are nominal exploratory intervals, not model-selection-adjusted inference.
+
+Mixer's public weights were trained on ImageNet21k then ImageNet1k, and recommend mean/std .5; this experiment deliberately retains the common baseline ImageNet normalization and 224 resizing. Sequencer's weights use ImageNet1k. Thus architecture and initialization are not isolated experimental factors. Any negative result is conditional on this protocol, not proof of absence for an architecture family.
+
+Sequencer uses bidirectional LSTM mixing along image rows/columns, with patch projections and MLP blocks. Its representation is the standard global pre-logit vector. It tests recurrent mixing in visual learning, not general temporal/sequential tasks. Reference: https://arxiv.org/abs/2205.01972 . Mixer reference: https://arxiv.org/abs/2105.01601 .
+
+Synthetic preflight checks batch64 training, FP32 pre-logit/head consistency and memory use without examining task outcomes. Independent final verification reconstructs projectors, overlaps and target readouts and checks saved target representations. Full checkpoint and actual-update records remain stored; only exact duplicate newly generated capture files may be removed after tensor-by-tensor equality checks, recorded in deduplication manifests.
+
+Runner: `mlp_rnn_extension.py`; preflight: `prepare_mixer_rnn.py`; output: `results/mlp_rnn_extension/`. Existing MobileNet/ResNet/DeiT results and the manuscript are preserved.

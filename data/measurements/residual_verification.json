@@ -1,0 +1,8 @@
+{
+  "complete": true,
+  "conditions": 8,
+  "histories": 96,
+  "primary_positive_ci": 28,
+  "primary_transitions": 28,
+  "resnet_pilot_max_error": 0.0
+}

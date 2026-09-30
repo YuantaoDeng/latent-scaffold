@@ -1,0 +1,10 @@
+{
+  "scaffold_coefficient": 100.0,
+  "scaffold_dose": 0.9869922462322306,
+  "removed_projected_energy": 31.87008836913977,
+  "random_targets": {
+    "active_random1": 0.9869922472335242,
+    "active_random2": 0.9869922430966813
+  },
+  "tolerance": "one percentage point of own baseline projected energy"
+}

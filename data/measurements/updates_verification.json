@@ -1,0 +1,46 @@
+{
+  "conditions": 8,
+  "histories": 96,
+  "updates": 864,
+  "positive_primary_window_ci": 24,
+  "nonpositive_individual_steps": [
+    {
+      "model": "DeiT-Tiny",
+      "dataset": "cifar10",
+      "history": "order2111_seed170",
+      "step": 4,
+      "gain": -0.0015212462256710968
+    },
+    {
+      "model": "MLP-Mixer-B/16",
+      "dataset": "cifar10",
+      "history": "order2101_seed171",
+      "step": 4,
+      "gain": -0.0005472976057836476
+    },
+    {
+      "model": "MLP-Mixer-B/16",
+      "dataset": "cifar10",
+      "history": "order2129_seed170",
+      "step": 3,
+      "gain": -0.0025962971274149232
+    },
+    {
+      "model": "MLP-Mixer-B/16",
+      "dataset": "cifar10",
+      "history": "order2129_seed171",
+      "step": 65,
+      "gain": -0.0011812783024600579
+    },
+    {
+      "model": "MLP-Mixer-B/16",
+      "dataset": "cifar10",
+      "history": "order2129_seed171",
+      "step": 66,
+      "gain": -0.006655084263957146
+    }
+  ],
+  "verified_inplace_histories": 6,
+  "runs_stopped_after_last_observation": 6,
+  "successful_run_seconds": 12755.077185199998
+}

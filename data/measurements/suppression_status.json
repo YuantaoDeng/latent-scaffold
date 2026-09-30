@@ -1,0 +1,94 @@
+[
+  {
+    "model": "resnet18",
+    "dataset": "cifar10",
+    "complete_histories": 6,
+    "primary_strength": 10,
+    "complete_strengths": [
+      1,
+      10,
+      100
+    ],
+    "included": true
+  },
+  {
+    "model": "resnet18",
+    "dataset": "cifar100",
+    "complete_histories": 6,
+    "primary_strength": 10,
+    "complete_strengths": [
+      1,
+      10,
+      100
+    ],
+    "included": true
+  },
+  {
+    "model": "deit_tiny",
+    "dataset": "cifar10",
+    "complete_histories": 6,
+    "primary_strength": 10,
+    "complete_strengths": [
+      1,
+      10,
+      100
+    ],
+    "included": true
+  },
+  {
+    "model": "deit_tiny",
+    "dataset": "cifar100",
+    "complete_histories": 6,
+    "primary_strength": 10,
+    "complete_strengths": [
+      1,
+      10,
+      100
+    ],
+    "included": true
+  },
+  {
+    "model": "mobilenetv3_small",
+    "dataset": "cifar10",
+    "complete_histories": 6,
+    "primary_strength": 10,
+    "complete_strengths": [
+      1,
+      10,
+      100
+    ],
+    "included": true
+  },
+  {
+    "model": "mobilenetv3_small",
+    "dataset": "cifar100",
+    "complete_histories": 6,
+    "primary_strength": 10,
+    "complete_strengths": [
+      1,
+      10,
+      100
+    ],
+    "included": true
+  },
+  {
+    "model": "mixer_b16",
+    "dataset": "cifar10",
+    "complete_histories": 6,
+    "primary_strength": 10,
+    "complete_strengths": [
+      10
+    ],
+    "included": true
+  },
+  {
+    "model": "mixer_b16",
+    "dataset": "cifar100",
+    "complete_histories": 6,
+    "primary_strength": 10,
+    "complete_strengths": [
+      10
+    ],
+    "included": true
+  }
+]

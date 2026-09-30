@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "branches": 10,
+  "strength": null,
+  "condition": 0,
+  "short": "resnet18",
+  "dataset": "cifar10",
+  "source": "results/cifar10_confirmation/target_order2131/artifacts/order2131_seed171.pt",
+  "order": 2131,
+  "seed": 171,
+  "mode": "suppress"
+}

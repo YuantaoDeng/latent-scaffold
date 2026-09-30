@@ -1,0 +1,132 @@
+{
+  "paper_sha256": "e57ecee9d859fde8ee8e4015b5788b099a92f0f8fa39cb937f8df56944bd714c",
+  "paper_filename": "Latent_Scaffold___ICLR_2027.pdf",
+  "models": [
+    {
+      "model": "ResNet-18",
+      "dataset": "cifar10",
+      "rank": 8
+    },
+    {
+      "model": "ResNet-18",
+      "dataset": "cifar100",
+      "rank": 8
+    },
+    {
+      "model": "DeiT-Tiny",
+      "dataset": "cifar10",
+      "rank": 8
+    },
+    {
+      "model": "DeiT-Tiny",
+      "dataset": "cifar100",
+      "rank": 20
+    },
+    {
+      "model": "MobileNetV3-S",
+      "dataset": "cifar10",
+      "rank": 24
+    },
+    {
+      "model": "MobileNetV3-S",
+      "dataset": "cifar100",
+      "rank": 8
+    },
+    {
+      "model": "MLP-Mixer-B/16",
+      "dataset": "cifar10",
+      "rank": 8
+    },
+    {
+      "model": "MLP-Mixer-B/16",
+      "dataset": "cifar100",
+      "rank": 8
+    }
+  ],
+  "epochs": 5,
+  "batch_size": 64,
+  "current_replay_split": [
+    32,
+    32
+  ],
+  "train_per_class": 450,
+  "heldout_per_class": 50,
+  "replay_memory": 500,
+  "optimizer": "AdamW",
+  "learning_rate": 0.0003,
+  "weight_decay": 0.05,
+  "response_draws": 16,
+  "response_relative_step": 0.0001,
+  "fixed_suppression_coefficients": [
+    10,
+    100
+  ],
+  "energy_matched_scaffold_coefficient": 100,
+  "source_orders": {
+    "cifar10": [
+      2003,
+      2011,
+      2017
+    ],
+    "cifar100": [
+      1009,
+      1013,
+      1019
+    ]
+  },
+  "target_orders": {
+    "cifar10": [
+      2101,
+      2111,
+      2129,
+      2131,
+      2137,
+      2141
+    ],
+    "cifar100": [
+      1103,
+      1109,
+      1117,
+      1123,
+      1129,
+      1151
+    ]
+  },
+  "source_seeds": {
+    "cifar10": [
+      160,
+      161
+    ],
+    "cifar100": [
+      140,
+      141
+    ]
+  },
+  "target_seeds": {
+    "cifar10": [
+      170,
+      171
+    ],
+    "cifar100": [
+      150,
+      151
+    ]
+  },
+  "content_fit_seeds": [
+    220,
+    221,
+    222,
+    223,
+    224,
+    225
+  ],
+  "content_test_seeds": [
+    230,
+    231,
+    232,
+    233,
+    234,
+    235
+  ],
+  "training_validation": "Source packaged and syntax checked; full GPU training not rerun."
+}

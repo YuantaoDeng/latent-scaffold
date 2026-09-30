@@ -1,0 +1,65 @@
+{
+  "dataset": "cifar10",
+  "tasks": 5,
+  "classes_per_task": 2,
+  "seeds": [
+    170,
+    171
+  ],
+  "rank": 8,
+  "random_controls": 128,
+  "max_spectrum_error": 1e-05,
+  "svd_threshold": 1e-07,
+  "continual_method": "er",
+  "residual_pca_ranks": [
+    8,
+    32,
+    64
+  ],
+  "epochs": 5,
+  "train_per_class": 450,
+  "probe_per_class": 50,
+  "memory": 500,
+  "batch_size": 64,
+  "lr": 0.0003,
+  "der_alpha": 0.5,
+  "order_seed": 2111,
+  "model": "resnet18",
+  "pretrained": true,
+  "data": "data",
+  "output": "results/cifar10_confirmation/target_order2111",
+  "force": false,
+  "save_layers": true,
+  "save_pre_future_checkpoint": true,
+  "order": [
+    [
+      6,
+      5
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      8,
+      4
+    ],
+    [
+      3,
+      2
+    ]
+  ],
+  "num_classes": 10,
+  "device": "cuda",
+  "torch": "2.13.0+cu130",
+  "timm": "1.0.29",
+  "status": "complete",
+  "completed_seeds": [
+    170,
+    171
+  ]
+}

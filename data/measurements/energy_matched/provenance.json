@@ -1,0 +1,1350 @@
+{
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed170/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed170/scaffold_100.csv",
+    "sha256": "f58a627ea1f2358ddceab01f53f4127f67d50059c294ae0f0eeb99f8a667614d"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed170/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed170/baseline_0.csv",
+    "sha256": "de6815fd916282b62476caf81b4c273540ade06a6a9b8ef75f40b785f13cbf61"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed170/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed170/basis_construction.json",
+    "sha256": "a9d50562ebb4c145a93ca0b8fe7f28e17e67812ebff28d72d616a31e47b78112"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed170/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed170/energy_target.json",
+    "sha256": "733f8e688e1d93c0330ac3ab14c44424c57d5f8bc7cf0aa4d3d2c67257114441"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed170/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed170/selection.json",
+    "sha256": "90eb65bdbd41b6138475a55c9a3ad20fdbb2513ca50ed6c18f0fa7ae8a361675"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed170/active_random1_7.079457844.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed170/active_random1_7.079457844.csv",
+    "sha256": "b4ce18e5abd5844155c50799ad5fca4afe4fc41ab12eb92e1ed416ee25a2bd33"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed170/active_random2_10.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed170/active_random2_10.csv",
+    "sha256": "ab9fe3fe04863e76d271c69c8d5d21841f98e767dec66cb66b5251914d696440"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed171/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed171/scaffold_100.csv",
+    "sha256": "0105146b1f5f84e935f8f20def174ab7e296c8269f9f6d09aea029936117e33d"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed171/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed171/baseline_0.csv",
+    "sha256": "654beaaed4608e0473607ec8c8f54aaceebebee8158298083a833837dec4b18b"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed171/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed171/basis_construction.json",
+    "sha256": "2406c6138f9271248cfee78392fb63af72dbe3ecc7bd7052b43d5df119d0d91b"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed171/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed171/energy_target.json",
+    "sha256": "4dec875067b7839571b3cc9d74b6e6b37e2d96d1c8083d54b4c4a0795966b4b7"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed171/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed171/selection.json",
+    "sha256": "55067aedb78ad44ab9ea207d4f40ea3fb52ed396d221845b4ee6af254bd6e104"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed171/active_random1_36.26482405.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed171/active_random1_36.26482405.csv",
+    "sha256": "756f4a3550486a9742d6af87ed82ba714a656e54641ccf26203f7b1c943d958c"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2131_seed171/active_random2_30.83054795.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2131_seed171/active_random2_30.83054795.csv",
+    "sha256": "0f507955affcf26df1cdff2c3bf721dc7380f2434078f272e9eb7f2ac70b9f89"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed170/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed170/scaffold_100.csv",
+    "sha256": "65b8ff1a07a79ad803e32379cd25bbbcb0f8f216fa8d96f42d597fd7969259a9"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed170/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed170/baseline_0.csv",
+    "sha256": "1410cbe11d170f4db7c29bcd521c3ac7bac7f5a7fd70d09939e63a8f60127f47"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed170/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed170/basis_construction.json",
+    "sha256": "b858e2fa1ec42307b514b97357d1c2d26120bac741fb32e401cb8fed98396851"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed170/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed170/energy_target.json",
+    "sha256": "0094e162b8f9fd5ea49fc8378a19d9db9ef90be65e6da8f013b0715a5a72d7ca"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed170/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed170/selection.json",
+    "sha256": "8fe19faaab8e8f1ebf64f31de0c4e8c18b440e46d4555931deefd1980cf36e74"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed170/active_random1_15.07810703.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed170/active_random1_15.07810703.csv",
+    "sha256": "a72329a90155515d4f6369db1cc5b19db89c59bcc5166ae04dcf00bdafdd71af"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed170/active_random2_10.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed170/active_random2_10.csv",
+    "sha256": "6a01a8ce61a9a500ac594c833ea6b0f2d2ae7bf35f0051ee9ab93eddaeeb5841"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed171/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed171/scaffold_100.csv",
+    "sha256": "9d8f2dba98ed3a2f530edcd310fae21df0f559c9388df5774d36aaa43e7aa6bc"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed171/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed171/baseline_0.csv",
+    "sha256": "c533189a2a58a1dab3a1dc05e0162cae55c930733cd2cab0bf79633a60382ade"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed171/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed171/basis_construction.json",
+    "sha256": "b5fb6253a677e239101959634f26e4a4c13a6c2bec5dca2686cf47e095e016d3"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed171/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed171/energy_target.json",
+    "sha256": "c4b99669d0136e02104bd03e6c515b4f75475bc0427aa3886b309233cf6fd04f"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed171/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed171/selection.json",
+    "sha256": "e52d8672c97ad939955b31067cd8cba87b2a7759910de321d6a6106aae2ce1ee"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed171/active_random1_13.81412904.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed171/active_random1_13.81412904.csv",
+    "sha256": "1f19d748bff296265e79080d2498477b7c4df59d57b4ea979d304db0792e4090"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2137_seed171/active_random2_10.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2137_seed171/active_random2_10.csv",
+    "sha256": "d3073ea8a4fc3b99809a5b630d38402cb966881ff7153d461a1a66885aa26bdb"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed170/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed170/scaffold_100.csv",
+    "sha256": "f7f0c008f4b3d7b586703c31e6c186abc25fd14f81c96b6e2d7c5c7b44cfbd28"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed170/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed170/baseline_0.csv",
+    "sha256": "aea73d8b1e9a971369357d4783d4d051bb4cc152dd81809d624a7aa8a9809ea3"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed170/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed170/basis_construction.json",
+    "sha256": "620ddd77aad17ace2144683e8821fbace889e83f081739519fb250fbe2ae4f4a"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed170/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed170/energy_target.json",
+    "sha256": "7dfa56529eef48b9af66a881bd4dc85043a53d3acf44a60f5192aac7e0858209"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed170/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed170/selection.json",
+    "sha256": "db8e21446a7cb413d7b0a1421ac9d19c7b800841b8e8cce01c19bcce493e3e92"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed170/active_random1_10.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed170/active_random1_10.csv",
+    "sha256": "a83ebe09a44841b5e69bdfb0dc3b0b4576ac3d4952b7d225c272524a4a4fcad4"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed170/active_random2_10.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed170/active_random2_10.csv",
+    "sha256": "7c5e8bd983df9248b6391bf14219e79fe3d40326df6a201fdb9e438ce1d6c378"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed171/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed171/scaffold_100.csv",
+    "sha256": "aba2b596d786c6af89f6941404e560d02ba1cea99f71088537212e5294b3efd3"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed171/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed171/baseline_0.csv",
+    "sha256": "9efd06f30966d16a262aeff01dad9c63525df4720aa32be22f423e69bafd7b0a"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed171/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed171/basis_construction.json",
+    "sha256": "777427808e128d77ae359cdb887977a8529af0747bf01da7ffda756f85fdbba4"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed171/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed171/energy_target.json",
+    "sha256": "b8994b20c262bdaf12ca6942f742fd4638ce36433f18d7f81f7362a5ad94aaa0"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed171/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed171/selection.json",
+    "sha256": "dbc069e63a19e4a6daa803e1309e44f5aedf4691e1982112cd1253ff20f4d524"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed171/active_random1_6.496773592.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed171/active_random1_6.496773592.csv",
+    "sha256": "5970348677537b6185536a0436f9297cb6e860691880de014470d4193db47c88"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar10/order2141_seed171/active_random2_8.90587134.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/mobilenetv3_small_cifar10/order2141_seed171/active_random2_8.90587134.csv",
+    "sha256": "600c8c9604d0d70cd13733eed62e766d4fafe07c655853872a34776213489117"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed170/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed170/scaffold_100.csv",
+    "sha256": "eb25ff436faa5353666cd77b4a06ccc78b0cdc7ba1386d0f8f2b455e2d66e43d"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed170/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed170/baseline_0.csv",
+    "sha256": "b7aac0a7f47fe4204f4c6459eda98f2b6ce7bed246eac96c0b2179800f42088d"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed170/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed170/basis_construction.json",
+    "sha256": "16b104e7beb63803bf62d9864eb1d0441ab5d85bac5babd3bd0762f97a982c95"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed170/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed170/energy_target.json",
+    "sha256": "10ac1b33f9085d9b15d2ac017f9a37b91c40ee250ceecb787fa8984fc4bbc54e"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed170/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed170/selection.json",
+    "sha256": "874aeca899a072286780014c0e8120cd37c6ae84a184be5608adc00ea26d238d"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed170/active_random1_0.7079457844.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed170/active_random1_0.7079457844.csv",
+    "sha256": "8b9463732c37bdb7d106b322472a25417af2b6d0cb7f77fcc2a4c9978e00b4b7"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed170/active_random2_0.7079457844.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed170/active_random2_0.7079457844.csv",
+    "sha256": "8920e11d60d7bf527149b021f5583f288cdf8093bdee0da8301b40a2f746a178"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed171/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed171/scaffold_100.csv",
+    "sha256": "9144235c892a62ecf570df448a4a0d0a0b595194be78ae6cb819dc54509b471f"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed171/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed171/baseline_0.csv",
+    "sha256": "c629a6d5dc5fedb0684f71284d89bd13dfafa37767a298f3c7e24fa81740cbdf"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed171/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed171/basis_construction.json",
+    "sha256": "a184b62d6714a0b38832dc75a68e3eb388b6042247c846ba2ac85e709346fa7b"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed171/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed171/energy_target.json",
+    "sha256": "ac2daf201e65ce8f656ef1c8e13ecf7740ff7a24f86df002a36dcabd3c5d11bc"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed171/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed171/selection.json",
+    "sha256": "3548ae1945ea152da94ff1ccfdb91d18124eb56ad095ae4ad36655541ca01b3a"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed171/active_random1_0.4050462928.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed171/active_random1_0.4050462928.csv",
+    "sha256": "8b1b438a89b1ea0781c718e8d3cbe3e4751a6e733e0004fd928114851c3ba0cf"
+  },
+  "data/energy_matched/resnet18_cifar10/order2131_seed171/active_random2_0.4622776242.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2131_seed171/active_random2_0.4622776242.csv",
+    "sha256": "7b7946db0939bcc2b0025be8109df797abdc64a9db9ae13087726e0b65984e99"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed170/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed170/scaffold_100.csv",
+    "sha256": "f376f3eee6fead235ec6920e57a4cab88352b9cf2456005e723dfbba309f0ec0"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed170/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed170/baseline_0.csv",
+    "sha256": "ea0b5e4f75c0d5b2b0517ae6c5238bb969104d3ebbf7770e7ab1e06d7640ffe7"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed170/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed170/basis_construction.json",
+    "sha256": "6eb0ff6d0cd4ec49876e41782c391af3d0cb8c83d40142d91c627702058f6149"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed170/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed170/energy_target.json",
+    "sha256": "9147ef7f0a8ec17cfdad535925d8c06852fbe163a24bd01c1c1c1da2b338e28c"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed170/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed170/selection.json",
+    "sha256": "0f86df7247707a5ddc11a0f66a7f552482284ac66f1da119bfac8a27807ac676"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed170/active_random1_0.3227550213.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed170/active_random1_0.3227550213.csv",
+    "sha256": "8823752acc69910359f5bf328bb2e38fd34926a321374bd64e5d0bb36767733c"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed170/active_random2_0.3212938014.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed170/active_random2_0.3212938014.csv",
+    "sha256": "ce31df944a896f7b146e5c4c188e71db81036fea3bc4640421100734de59f705"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed171/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed171/scaffold_100.csv",
+    "sha256": "647824f30b69dc0e535a09b6177c09a2bd657b574fbb6c446e23123dbbc18b3d"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed171/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed171/baseline_0.csv",
+    "sha256": "20689c121f930af8ae2bea8a4f440bd10adb128f2977d047d6dfb21998e63226"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed171/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed171/basis_construction.json",
+    "sha256": "7b0a47645b02ffd523330a2dab4afd1bb8841e54e546bac22849d3296eddfbfa"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed171/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed171/energy_target.json",
+    "sha256": "5d51060a4ddf02aff63130b336796ca4ee82e10ed7930952bb61c0789d30a8f5"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed171/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed171/selection.json",
+    "sha256": "9227ae77586e4405a64faece23f8fa050a5f86cf37cb8eec7105ef872df9f967"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed171/active_random1_0.2138412547.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed171/active_random1_0.2138412547.csv",
+    "sha256": "cf95358307ebf6d857541d68735ac2b8e14988ea403e5d75e7119967e51f7431"
+  },
+  "data/energy_matched/resnet18_cifar10/order2137_seed171/active_random2_0.2178336245.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2137_seed171/active_random2_0.2178336245.csv",
+    "sha256": "6b990a24896dd311168c275f5b247a0a162489e7b57ad02050595269775f48ca"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed170/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed170/scaffold_100.csv",
+    "sha256": "223e174925e18e33d2c3e359892d3777f090cd3e32d7977322cd1690445c44d0"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed170/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed170/baseline_0.csv",
+    "sha256": "19f86e325a72a5f10eca31b487570707a9fc057b0b4c4d122bd9e8af13a2f5b4"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed170/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed170/basis_construction.json",
+    "sha256": "647decac05cca33a3d3df0ba90b30f06e14f20755026fca0d35091295b95a623"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed170/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed170/energy_target.json",
+    "sha256": "bdd4b5cf2172df0ee068dccfdea398bba803998a5ef31742cbba5b4afe4afd81"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed170/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed170/selection.json",
+    "sha256": "7a6af8dba6ee6c66efa185fcda8076d2a8ceb0a9da6e3d3ee26c2bf941f1575f"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed170/active_random1_0.8676661161.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed170/active_random1_0.8676661161.csv",
+    "sha256": "37ee93c2b3eefb459edad1e8f6e225b7b1a151acf6b9c3ba1390ca515b4394c2"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed170/active_random2_0.7079457844.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed170/active_random2_0.7079457844.csv",
+    "sha256": "97d9e3ca1250754f111576ea4689d9d10fe42341d5699352892afc69df52380a"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed171/scaffold_100.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/scaffold_100.csv",
+    "sha256": "b26f02d9a9945a4bf2869e4b8fe704708ed8ef1e4be69e95591965cca132bb8a"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed171/baseline_0.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/baseline_0.csv",
+    "sha256": "64dd5baac54a7b2602c66e2793ce0aea1e923159103f217cb29cc9995d273a1a"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed171/basis_construction.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/basis_construction.json",
+    "sha256": "693ae40f85f0a75a842fe20b699eb80ab8537d4b5f0157ae9dfe3dcd0fb409eb"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed171/energy_target.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/energy_target.json",
+    "sha256": "3b46b3df583ea9307cbdb373b763ff22e4e8fda737c327283cecc77e0c5509c5"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed171/selection.json": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/selection.json",
+    "sha256": "e763f5044f849131e2dfb90227c667b967f96972b5264bbb018a88bf46989836"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed171/active_random1_0.7079457844.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/active_random1_0.7079457844.csv",
+    "sha256": "6aa77ad304d651e0b81942feb1bbb6b01c24ad86271dbe55ca2a9441369c87c5"
+  },
+  "data/energy_matched/resnet18_cifar10/order2141_seed171/active_random2_0.7079457844.csv": {
+    "source": "results/cifar10_lambda100_energy_matched_remaining/resnet18_cifar10/order2141_seed171/active_random2_0.7079457844.csv",
+    "sha256": "dc6f2895091e203dc0a78e9eab7ac1f1baaaef7c960123382aa922cdcc458e65"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed170/scaffold_100.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/scaffold_100.csv",
+    "sha256": "32ad604d2fba60b50d850c7829f1906a98dc27a5e9667ae4c528ef4df506ee0d"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed170/baseline_0.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/baseline_0.csv",
+    "sha256": "f50e923657c9d355d2fe32672d4c690118e95703fda6fc3cd6998ccf753e9263"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed170/basis_construction.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/basis_construction.json",
+    "sha256": "cb3e7c10db2f83d81d082c9a6e98d763bdfe9a08206a8d1f02859b45221a5009"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed170/energy_target.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/energy_target.json",
+    "sha256": "e74cb8bbda9d436f08b6e59f922bd80072878d657b93ed939966d24f72afbe60"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed170/selection.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/selection.json",
+    "sha256": "5df3497abd63bab52601edb0166556f89122220ca73fb26a066bfeec2fdbaa1d"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed170/active_random1_10.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/active_random1_10.csv",
+    "sha256": "a153b00cea945facc5c32458e4a2c26d660d1145b7f548b6c517422eb9a7b63b"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed170/active_random2_100.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed170/active_random2_100.csv",
+    "sha256": "6be1243a8fcffd2a17819807928e70b9c72f8e321cbce62275a1637d61178563"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed171/scaffold_100.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed171/scaffold_100.csv",
+    "sha256": "05b9e49d73a58a0f373863037a817ef752a7e159248a8d49460d3dc4670b536e"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed171/baseline_0.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed171/baseline_0.csv",
+    "sha256": "aab3e9bd38332aad71803c3dade643623038ef658651487ba0f3c143807ddea9"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed171/basis_construction.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed171/basis_construction.json",
+    "sha256": "c04678fb7ccc0d38b8a75bde65d4b225b4755b456de2a5808cb24a9bd9f5b5ae"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed171/energy_target.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed171/energy_target.json",
+    "sha256": "59524fe748e5815f7968157d4475715d2da435ec8fdeefa011e3a42528609057"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed171/selection.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed171/selection.json",
+    "sha256": "ded4ca77edd3cf1f2a20d3f470c1b730c7681d81bf7141480c37d92ec1f02c74"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed171/active_random1_10.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed171/active_random1_10.csv",
+    "sha256": "a37c178777d1742f0616fd9dba3a365e05994964a2c9cac79dfcc30f232cb125"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2131_seed171/active_random2_10.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2131_seed171/active_random2_10.csv",
+    "sha256": "e709e036d02eb2db4d4dafb94981e7050c90023522b00d290a391822d2670da9"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed170/scaffold_100.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed170/scaffold_100.csv",
+    "sha256": "9f01fe91dc7d46316361ea2bae29bc52e33e93acbe67ae9387774ab8a0ca37f1"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed170/baseline_0.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed170/baseline_0.csv",
+    "sha256": "78e8afb1462b51fe46a091875a1976f2e3df9f41ce2baf87d0ef8690c9ad8b74"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed170/basis_construction.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed170/basis_construction.json",
+    "sha256": "1a32445ee6d625277edb3d5262549213fbe1729410f3258a7abf40b6c55f1a4b"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed170/energy_target.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed170/energy_target.json",
+    "sha256": "4a46a5a4653f663767e64f28b49ae43a51903e11d7ae81a2557030ceec6306e4"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed170/selection.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed170/selection.json",
+    "sha256": "ccf32186447a25397f264b5c020cfb98d80932eb77b02eb1003a815bc2c53bbb"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed170/active_random1_100.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed170/active_random1_100.csv",
+    "sha256": "a83bc8176aabdc2845d7dce01843d9be887eddedb8622ea847d15b9f1802dd57"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed170/active_random2_100.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed170/active_random2_100.csv",
+    "sha256": "d15ac7021dab62cad4e978e547fdafcadf8860336ece0532b9a6aaec0ac71cf4"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed171/scaffold_100.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed171/scaffold_100.csv",
+    "sha256": "d83a8c36e91e83dc07710c5d16b15d6d97a050f4424914d88bc59982211987e1"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed171/baseline_0.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed171/baseline_0.csv",
+    "sha256": "03394d58025cea5cd6e7a73fc359113e484acf2dea378295450d630ed3d4359e"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed171/basis_construction.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed171/basis_construction.json",
+    "sha256": "d3b0ad44fd6df46aeb777838e7d32bcc9c5e456c509cb928379a71e2c4954a26"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed171/energy_target.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed171/energy_target.json",
+    "sha256": "43f94d7a5e3f3c994674f3d09eb7db9b2f6960c25d21c759d9dc6890337761d9"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed171/selection.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed171/selection.json",
+    "sha256": "ce4cf71fb0c169bbdef1fa3ef0c2cba19152df5734c5ba97a31e3ba5d8473685"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed171/active_random1_10.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed171/active_random1_10.csv",
+    "sha256": "e4fe6db6a6e3ff2efacf007514e530ce73dc176a143c01c8603b0658d532f21f"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2137_seed171/active_random2_10.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2137_seed171/active_random2_10.csv",
+    "sha256": "db1e3b9a362da45ec1395fc44459e539de60cc6134b0b286dde68abb047dad88"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed170/scaffold_100.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed170/scaffold_100.csv",
+    "sha256": "46d2bd968bd1e3e5174d3da1acf94efbf2ab783a5cb2b34e5dae60f5b9ad4e81"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed170/baseline_0.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed170/baseline_0.csv",
+    "sha256": "c1c6840ac01ff4635e66d68912de857f15302a343ee5d982c17c7e939b4c53a8"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed170/basis_construction.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed170/basis_construction.json",
+    "sha256": "59ba8254787ca7ae319f697748f52b3f2ac1c539027f2763975f8659659052d6"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed170/energy_target.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed170/energy_target.json",
+    "sha256": "74fff4d731b9867710763e6e31c5decae5ecd1a28d8588709ac7f1c75c31bfd8"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed170/selection.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed170/selection.json",
+    "sha256": "7643cc516f68fa8015973deb3d8d11d5318df0bacb0cf5b6e59fd5c1717f6237"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed170/active_random1_10.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed170/active_random1_10.csv",
+    "sha256": "c4b531be5c6d5e45add5f357bc4a12e3eaf22a5d137acdb57a5210cb0f4d3c73"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed170/active_random2_10.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed170/active_random2_10.csv",
+    "sha256": "a891500154c834482c1257c03337502b5e324d4cd030b5343814dc5de5350ba8"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed171/scaffold_100.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed171/scaffold_100.csv",
+    "sha256": "9c7a82f98c5b6c84a36974c849ba555e09ef7d2c375f6a3944d36c910ca567b6"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed171/baseline_0.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed171/baseline_0.csv",
+    "sha256": "756a88877bd145e3d8553a3a19dae7b1db1a8d5166eb83471f64cb43389d7e82"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed171/basis_construction.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed171/basis_construction.json",
+    "sha256": "4d8dbe8ea78ac4e7291244dc994472ce292c26696c85550d17cc9f736786dca2"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed171/energy_target.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed171/energy_target.json",
+    "sha256": "a43f8a23b190845669a1518d65ecb9b7811f59a1032ff9f4ea8ce3b088f940bb"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed171/selection.json": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed171/selection.json",
+    "sha256": "d6505f03fe1a41fa88d17b2ed2999a5fdabef02b2338b96c33ba7842955d4716"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed171/active_random1_10.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed171/active_random1_10.csv",
+    "sha256": "c5da606ceb21836ceddc9b9b17c431f65d5137ec024f7da3e6f12f623287705d"
+  },
+  "data/energy_matched/deit_tiny_cifar10/order2141_seed171/active_random2_10.csv": {
+    "source": "results/deit_cifar10_lambda100_energy_matched/deit_tiny_cifar10/order2141_seed171/active_random2_10.csv",
+    "sha256": "bb9c05f86e2916b45f009753681d4c33ac3f4677f6de2ffc428300efd0717f5f"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed150/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed150/scaffold_100.csv",
+    "sha256": "d5d3313693204a0f81f87812402784cc6b81e0c43531947d87b875389708b622"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed150/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed150/baseline_0.csv",
+    "sha256": "4257e6b43ccdff0c350b7498b7b989a3248408acdcc85121a1e53adbc0171e36"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed150/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed150/basis_construction.json",
+    "sha256": "f3dd9371555e3e8d080dd65802c8c0cfa5b97fdabd68d8c60dbfa938bfc12ed4"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed150/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed150/energy_target.json",
+    "sha256": "8f430be1daa276d84c93c743ca71c8c72cca95646dba372507d9fd752f757c84"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed150/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed150/selection.json",
+    "sha256": "af09c42ccf1ecab2d681799f193ffa621a6d6de46314f34f1bff64557a501bab"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed150/active_random1_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed150/active_random1_10.csv",
+    "sha256": "6bd280ab74bcab067a7436523c602256d25e514b3357eb263d73f12f38a7174c"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed150/active_random2_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed150/active_random2_10.csv",
+    "sha256": "d4cabfc5cd9391c00334fa7df7d3bec50969087af5e3785a046a6d927fdda373"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed151/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed151/scaffold_100.csv",
+    "sha256": "3c5df46aaa86ec220f3f67c505096c8ac629afc8d3320bd700c74e2c64f1db18"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed151/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed151/baseline_0.csv",
+    "sha256": "e905ba6115a32323c18133819461a2d70e0fe90180252c1caec885ee2fd8fea3"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed151/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed151/basis_construction.json",
+    "sha256": "fbdd899fb074c7876971887fe73f8ccb24cdbbf6dab2345286a1da2b2f573b15"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed151/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed151/energy_target.json",
+    "sha256": "bd82b1c777832c686fa8a55a1d2eaed39ecafa9a27a6a5484c2cb51a56db3fb9"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed151/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed151/selection.json",
+    "sha256": "e9c8de7179aeab6c12add458dd74d3702c5594bed4b1fd2fe45e93e2c7a483db"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed151/active_random1_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed151/active_random1_10.csv",
+    "sha256": "ec112df5a40e145153b806ba5d94cfda4097d628007dc75a6c638c674266b69e"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1123_seed151/active_random2_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1123_seed151/active_random2_10.csv",
+    "sha256": "7154286e696842eb2a1139d8f52d2286db7101d8973e23fa6f571ee02fab52c8"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed150/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed150/scaffold_100.csv",
+    "sha256": "9c7321c3032c7d21e85518537172021490bf9af6f21521d726f5bce662038472"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed150/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed150/baseline_0.csv",
+    "sha256": "316d2db0f101ce2ca75fe285b46f41efe3b1cf5c1ea04a7769b58346b59b6dda"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed150/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed150/basis_construction.json",
+    "sha256": "8fea608cead48083c5c0a5301a5f4e52c80975fd741715d53365d9b139592ba0"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed150/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed150/energy_target.json",
+    "sha256": "a5ca135cdfeaa9f59052eae52dd19a893fa55bbd8462b6cd4ae2b4388f2c4d57"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed150/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed150/selection.json",
+    "sha256": "21684c469f297a123fdfda39cc4e535def18405cd47ea4e2bde1253cb1b73886"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed150/active_random1_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed150/active_random1_10.csv",
+    "sha256": "322c7876b34009fb7201f62bf068a31f9fa010fef8accbe24a3767fa1bb72e39"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed150/active_random2_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed150/active_random2_10.csv",
+    "sha256": "03a9744ed5bab57c36632b0823c857d22d6f175080ecc11fc843bde2b8f528dc"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed151/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed151/scaffold_100.csv",
+    "sha256": "7de0777ce933035cbf765c934e561437522c1d8b57662f01f94fa7d7aea119a7"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed151/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed151/baseline_0.csv",
+    "sha256": "3c0d4d765edeb5c439e1ce0dfccae39c70fda9eff6dddb8afc6b16800056b5f8"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed151/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed151/basis_construction.json",
+    "sha256": "9abbf16f5504ab6cd5c5ef9a9015dff923792ea07fd7f9d50a6445161d1c56fb"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed151/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed151/energy_target.json",
+    "sha256": "fa18f5e455916458c0e0096a6f7c676b52863819e4c6370978b4176bf9a7facc"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed151/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed151/selection.json",
+    "sha256": "3c2806d4b678d1b5fd33096b185136595a1967ac87bb82427f5aae1703651e1d"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed151/active_random1_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed151/active_random1_10.csv",
+    "sha256": "b46faf1c8d2fc6a1d6075d1d08b6edf4e03ae6f6d2d89efc2653ad496b0cbbae"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1129_seed151/active_random2_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1129_seed151/active_random2_10.csv",
+    "sha256": "0512ae71b98ed5c156655d660bd5d7a3bc0f45206fad182bb5ab8c4b5525f969"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed150/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed150/scaffold_100.csv",
+    "sha256": "85d039b64a9b17a6108ae782b2717d634bb42a7c604dc8eee26a6669876951fa"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed150/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed150/baseline_0.csv",
+    "sha256": "4eaa2b39fb525c72f5babf2215cc1febd9ccf34fb7e77ac84d28fad7d37f285a"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed150/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed150/basis_construction.json",
+    "sha256": "3a7ca08e29f116392ef229ca8e24ab3bcb6b52ab1fd99210317eb5daddba2857"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed150/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed150/energy_target.json",
+    "sha256": "c0fd0e8cab228d5993c78c9ed3947fa776fd5924143e99f72ba23952c21e5d3a"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed150/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed150/selection.json",
+    "sha256": "4159772afed9e125a5e69c3d42d5c1681f07cec76090778d72cb3b4b2a26d779"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed150/active_random1_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed150/active_random1_10.csv",
+    "sha256": "31670385288142d093e0a2d70b5f44d87d55fbaaa872f55b1550a42193098b08"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed150/active_random2_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed150/active_random2_10.csv",
+    "sha256": "7346a312e0a8f7c3d69c04d6da6abc0bbec79079b4bf551063563f78ebd3dfc6"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed151/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/scaffold_100.csv",
+    "sha256": "1975e040775ac95df189380492f659dab860664f0dcdfb739936f8c2537e702a"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed151/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/baseline_0.csv",
+    "sha256": "a8e8fe17b0cce8e85236a45b110afff05f90d4820412439b9e18f7a8bf169e3e"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed151/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/basis_construction.json",
+    "sha256": "69ef4454325bec5cf57378c2c2963b9eaf521ad72ef203f12d761020fbf40086"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed151/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/energy_target.json",
+    "sha256": "ac661bae249517269916e703d03bd33b3ca5af9c83d976c3b83d32fea1919d59"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed151/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/selection.json",
+    "sha256": "a968904e8b2bc2d7b45e4ac7755064944ee0bd62b3554239f6e3ba66d733e2d9"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed151/active_random1_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/active_random1_10.csv",
+    "sha256": "99f75a1f0c67f1d9787e037539c4b0391b65d7744cd2df898aed5753284e1156"
+  },
+  "data/energy_matched/deit_tiny_cifar100/order1151_seed151/active_random2_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/deit_tiny_cifar100/order1151_seed151/active_random2_10.csv",
+    "sha256": "3b5c463681de83a224a6b5ad63d0339b69ff213a91fffb850e45fbbe26c475ff"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed150/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed150/scaffold_100.csv",
+    "sha256": "20926aa7a3dffe4cea818c9d2fd952a99e2f5a75292908ebf6e3a531993304d8"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed150/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed150/baseline_0.csv",
+    "sha256": "18259462f848312fe6089d3bc5a71658e20ad28d9805b6335165a747d024bd1d"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed150/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed150/basis_construction.json",
+    "sha256": "b5b25bc5b81e78d37f439858eee71a461a6cbca8dc2f7e883ed9b8652e642f5c"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed150/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed150/energy_target.json",
+    "sha256": "56bc728ff1987634382f92ce9590cac992b9a102d5021462f7c50e709ec8b671"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed150/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed150/selection.json",
+    "sha256": "b3b4ac29163910d3a3442bd390b71ed0656b122d81303a597ad06631756cae73"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed150/active_random1_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed150/active_random1_10.csv",
+    "sha256": "6e6a445bb1a8f22a7f8d9916bb32a7312cf305cec4060ed2c22e7e5a6c693f4a"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed150/active_random2_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed150/active_random2_100.csv",
+    "sha256": "441a503969d1bf36c8dfcfc91afd4ecd8c5a26b0c90c92f0f566f730646d417a"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed151/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed151/scaffold_100.csv",
+    "sha256": "a1892962c5e769318b4b126c27ea515159a9de7cb506bbcdc0bb1f43f9085f21"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed151/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed151/baseline_0.csv",
+    "sha256": "18597609faa4fa93d565cf703026f49251cd62a94f371bbf09ec15e4297f06a2"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed151/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed151/basis_construction.json",
+    "sha256": "3c35d6aefa0d8e6904d127b7ef5b8ea0959cf83a0658983f7bda1de421a1c8c4"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed151/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed151/energy_target.json",
+    "sha256": "b927e3ae5b3b1730f47b9acaf77efe21d86d95ac571aa7b136db7605cba14a4c"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed151/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed151/selection.json",
+    "sha256": "d0c26822bc2148593a10f7d386c176bc24c6f2eb506b62d861a6c9dcce921758"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed151/active_random1_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed151/active_random1_10.csv",
+    "sha256": "55c25999d87af7f7a2ad4df73ea0f307234b8c73f103e4bea8fdc06856753c75"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1123_seed151/active_random2_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1123_seed151/active_random2_10.csv",
+    "sha256": "2f3cf370a55d384715e9b5c261a5c15409a25b9d34d50db79dd8a5b9ff41ba62"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed150/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed150/scaffold_100.csv",
+    "sha256": "14af15a14ad66aa4a0a6968084131e87dbfed3344d6da2d3834fbb51dee29885"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed150/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed150/baseline_0.csv",
+    "sha256": "d1b9ea8173b15d0b0b0ec17d3ef490adcb9e484ae319654eec5efd4905582674"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed150/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed150/basis_construction.json",
+    "sha256": "e30422eb5e1cca7503c986411cba0015db0cf31b4b881eb4f335ccf6e5553ad2"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed150/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed150/energy_target.json",
+    "sha256": "92707caaa39389197f26ea69f136506d13c4bcbe91bb0d4e818756d5b6362d45"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed150/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed150/selection.json",
+    "sha256": "cb4f90a26985bc6f40b100780e00301ce68ce121bf83b30ad36005a426f86d84"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed150/active_random1_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed150/active_random1_10.csv",
+    "sha256": "b1877670ce8d566bc862fcb2a7fb0f40cb60690ba5994391fa64dc146d99881e"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed150/active_random2_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed150/active_random2_10.csv",
+    "sha256": "44f7aa5bbe0f89b6773291b8b04776ffbd93b9cad1360e898d14f24d5bfd4b7d"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed151/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed151/scaffold_100.csv",
+    "sha256": "214dcf3c65085e86bb4b1e22ac7d43566c73c00b01b8b5821f82eacfaa22d107"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed151/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed151/baseline_0.csv",
+    "sha256": "d4fda1cb9f4508428ba646e264ef55b0354ee54e5dfe61bc2137f7f6ee51a164"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed151/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed151/basis_construction.json",
+    "sha256": "750eee457207b394c72bb8332324745542a38a9fff0d8bbad0b10fb4d2215d2d"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed151/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed151/energy_target.json",
+    "sha256": "2910550e1abe7c54d0a3993e93dd1b0ab1427a6fe8d31e179f555048ba19742a"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed151/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed151/selection.json",
+    "sha256": "4bb4b355aee4e8e4426277c66a0a06335d7bf4cecdcd782f8c1c134a5fbfe978"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed151/active_random1_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed151/active_random1_10.csv",
+    "sha256": "266ad7c59387d81bca90b9a47d69fae113a5cf9a029d378553d5537fb7398f7f"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1129_seed151/active_random2_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1129_seed151/active_random2_10.csv",
+    "sha256": "416d8ed645c25d7e596dc0aae48c8b918d1c7d93c99b908e255fafbd64f19e57"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed150/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed150/scaffold_100.csv",
+    "sha256": "bd7b51253ecb3fb5ed6906045dc939f1b540e75be2e0cc925adfe99c86922244"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed150/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed150/baseline_0.csv",
+    "sha256": "6aec6f709c9c540f34d0ceab932898252b1c02964b2a6e2a34f6e8736411426f"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed150/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed150/basis_construction.json",
+    "sha256": "9d81f1a54112aada7b9f1f32c0da1219fe6cbafc5230e734e595a76600bbdabc"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed150/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed150/energy_target.json",
+    "sha256": "860ea067ab2d7c7ae9b1204cd59cb9e4ffe2d0a8f572eff433c53e6a967a18e6"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed150/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed150/selection.json",
+    "sha256": "8b7cb512f1e3dc2c42f0d35b718c94242cfd22757e1870fa9ea7dbadcae9e596"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed150/active_random1_10.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed150/active_random1_10.csv",
+    "sha256": "10f6bfee9649b9530d5713423f3442da38616bad214ef879bb51861de7c27fe5"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed150/active_random2_1.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed150/active_random2_1.csv",
+    "sha256": "c8eb8713f79003a499a1c0aec0eda6dd580900d77d7a2da368d73b02b2954d34"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed151/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed151/scaffold_100.csv",
+    "sha256": "7666fdf2069b9556dfebf94316b2dc9824fc17b8835a4aa839a7b76a91e761cd"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed151/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed151/baseline_0.csv",
+    "sha256": "645297b4709f6cb109a9823301add6375fa2343343bbb56a6b0da0118216b665"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed151/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed151/basis_construction.json",
+    "sha256": "39cbeae3987bf6e8847af8a09f09df25428bf766fa2f32d0b5db4576950d6778"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed151/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed151/energy_target.json",
+    "sha256": "f1411b01f5db8dd1f47b0d42e1e333de1502b563b94161262f7398fd6c0983a5"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed151/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed151/selection.json",
+    "sha256": "45ac96e3b92be053ad6f871d7732d068bd5c685b5a8309a5a85e3479a3552b48"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed151/active_random1_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed151/active_random1_100.csv",
+    "sha256": "b861423e414a9e8228702147703e141ec005851f44aa54caf6b66ddaabfa5d4f"
+  },
+  "data/energy_matched/mobilenetv3_small_cifar100/order1151_seed151/active_random2_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/mobilenetv3_small_cifar100/order1151_seed151/active_random2_100.csv",
+    "sha256": "e169c42b660eea7112a5db5697600c3a2b03bc2a3b96fd0d521c088929045e37"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed150/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed150/scaffold_100.csv",
+    "sha256": "72ad7d656ea7c31808dacace3da2e0bd545669e2e1e062fa952fc1b4bab24dd6"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed150/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed150/baseline_0.csv",
+    "sha256": "eb26812d3b62c1d4cef7d5a8e222c2457289fa427d4a6e77deb458cf3d1ea57e"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed150/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed150/basis_construction.json",
+    "sha256": "15540446d87cfcabe8a194ec048a034dc8bc7bbbb7b1d18b1e7b7b46936fbaaf"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed150/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed150/energy_target.json",
+    "sha256": "ab1a09bcad1ea0556238c2bf9b50903532a3cc9c86f9c9d1e4583a63adec08cd"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed150/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed150/selection.json",
+    "sha256": "7eec2eb00d6f7ec552c04616abaee01c91dcb9255be6034646f876a658bbc955"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed150/active_random1_1.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed150/active_random1_1.csv",
+    "sha256": "684f9bb5e912b3c75b0b89c2b63af2b0d1f70042e4f5159e150add6dc7e283be"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed150/active_random2_1.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed150/active_random2_1.csv",
+    "sha256": "f42be381415f1af701d8d0578db1872df31ea44eb582221da8e065abd65dd8b2"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed151/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed151/scaffold_100.csv",
+    "sha256": "e686cd4ab171454097f3811956723d4ae1b0fdaf800a706b4d8bc1568fdfffd9"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed151/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed151/baseline_0.csv",
+    "sha256": "2fa50ab75218a9ba188f3d31596c7e87dd356a74ff0597ce7c5adeb2c78a3f46"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed151/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed151/basis_construction.json",
+    "sha256": "4ecc0db281a8ec38160c74fa9baa37b5ac77df2061c9fb479b3104c5cbb96998"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed151/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed151/energy_target.json",
+    "sha256": "a7f5411a183962e77d1dfa255c93206ff087a002c8cb25c6beeac43e57837988"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed151/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed151/selection.json",
+    "sha256": "5b8241dae039362278a16f3beeb7e59a4a1dd627e222948668a46db61e96ef32"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed151/active_random1_0.2418908893.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed151/active_random1_0.2418908893.csv",
+    "sha256": "700a4ab6b032ace717fcb6c3a73c47eb36be6c1470ecfd9ded57d5aceb0defba"
+  },
+  "data/energy_matched/resnet18_cifar100/order1123_seed151/active_random2_0.2066472926.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1123_seed151/active_random2_0.2066472926.csv",
+    "sha256": "c2ae08ce07dc5c7a4fc1c6559af8fecae9169b1193c74bab14254db7808efa80"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed150/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed150/scaffold_100.csv",
+    "sha256": "841e84d88b3aa54079730f3031154f268fa0fdbbb47268d2f21075852304ec0b"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed150/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed150/baseline_0.csv",
+    "sha256": "e87098384f10a58e9b9e354f9d6c69054aab632f6c0b7b01629a4330b28fa539"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed150/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed150/basis_construction.json",
+    "sha256": "a8f2e8ed7e46557720b166565aea184c2c0315ee084ff974378eba5061205799"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed150/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed150/energy_target.json",
+    "sha256": "28729eb61268b5d8292ee82694272a99d66077319e292d751fd884d460b0a1f7"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed150/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed150/selection.json",
+    "sha256": "6424bdb828d677e35855bfc67bba9c3cb1d478324b406eabe3ce37bf1975b927"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed150/active_random1_0.4682312685.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed150/active_random1_0.4682312685.csv",
+    "sha256": "65a86583c90bad67d454688c24301160733f6e2482fbc2ef11b7f71cc015cae3"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed150/active_random2_0.4929755577.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed150/active_random2_0.4929755577.csv",
+    "sha256": "7c64998b09d0c3aa90218949cf9f85631e3cdadde52a4f6fa18b9ec3e9d08493"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed151/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed151/scaffold_100.csv",
+    "sha256": "babd63827bd12e50a7b2375bf82104a42674a25e28e0909cc4e33c55bbc2d79d"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed151/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed151/baseline_0.csv",
+    "sha256": "667f195e617d76dbfa9bf4e6c3388d19f994e745879bd1b69384e10cb52f15c2"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed151/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed151/basis_construction.json",
+    "sha256": "578bf89bed006bbe40784b0a46ab3787147b179d7af89fa88c07debb8a9d539c"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed151/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed151/energy_target.json",
+    "sha256": "8b244dc46bb9fe5251c92f9ba341de133d1f275caeef74877f7854cf7a5245e6"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed151/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed151/selection.json",
+    "sha256": "edb61968a476c5b0c5cf85fdb16eda036ffa907318e9d38a28c1f886c9318336"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed151/active_random1_1.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed151/active_random1_1.csv",
+    "sha256": "b52ef843121920cd4064aa4764e9ed09beb94d81afc990f203eebd3459321491"
+  },
+  "data/energy_matched/resnet18_cifar100/order1129_seed151/active_random2_1.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1129_seed151/active_random2_1.csv",
+    "sha256": "c0eec8f58e765080cf35884710d1cef2c4a5cba3658bb947a1cde876762f2b38"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed150/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed150/scaffold_100.csv",
+    "sha256": "5e6198c716313a8806a629530b444087317c44351dd74421ee78f6bbeccc9b8e"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed150/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed150/baseline_0.csv",
+    "sha256": "8fa3da507a19d5a023fe96150a4a3896338893968a6b7e31ad2e721454b14a24"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed150/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed150/basis_construction.json",
+    "sha256": "57c0354526514910fe909a47e54f775e88f9335dacb930fb7bfd5935fbb24e24"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed150/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed150/energy_target.json",
+    "sha256": "109d773be9036f85b128e53cb3996bd9ba40741dc41aa2e414468c97577d772b"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed150/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed150/selection.json",
+    "sha256": "728e24410256a9f3913110d743887c8ef47206916dad9be72c94ab908658aece"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed150/active_random1_0.3574576189.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed150/active_random1_0.3574576189.csv",
+    "sha256": "4955a61833ff697bb323ff5607dfd751fd30e8c01dbdab23636024ae51ddd3cc"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed150/active_random2_0.4167680872.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed150/active_random2_0.4167680872.csv",
+    "sha256": "8288e4bfc19ceed2811126a3248909ddf51295ec3f087f9c4bc72b448049a04d"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed151/scaffold_100.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/scaffold_100.csv",
+    "sha256": "79c968a149ddd635922870d9cf422ed6fed4fec9a732dba80cbb090139950026"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed151/baseline_0.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/baseline_0.csv",
+    "sha256": "482253cb35a8d327b5ff666c573e806ae76df61d92c30041eae93cd3fa3061a8"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed151/basis_construction.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/basis_construction.json",
+    "sha256": "6439e56d6faffb87a27a93bcefb631dd9d359237459be967cef36e137d023dac"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed151/energy_target.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/energy_target.json",
+    "sha256": "24dc81904efc91b07eaec7784b884c483e43431bece4c7c5e0fe0c5256da4dcf"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed151/selection.json": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/selection.json",
+    "sha256": "630246c81aacdd53319f5a1def65b7fd4ac7c528c28fbbdec1efd35136fe1543"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed151/active_random1_0.3591556203.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random1_0.3591556203.csv",
+    "sha256": "4e788c4f32832028c3aae67c199ecf168aa81756f534dc7a955a5ee16ef8477d"
+  },
+  "data/energy_matched/resnet18_cifar100/order1151_seed151/active_random2_0.3682102898.csv": {
+    "source": "results/cifar100_lambda100_energy_matched/resnet18_cifar100/order1151_seed151/active_random2_0.3682102898.csv",
+    "sha256": "216d7a0bbc7aa0f24a28f5759bf7727caedb54c14fcc7081db99a34fba343bd9"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed170/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed170/scaffold_100.csv",
+    "sha256": "bae5609a68a022ed740685d89b1a623e73b9c7f238087240cd121c25732fcc68"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed170/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed170/baseline_0.csv",
+    "sha256": "aa71c8643a49758d39d8526ed94a2d9384d559e9340b3377c44c1b802c5e5a74"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed170/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed170/basis_construction.json",
+    "sha256": "318dcf4d913de323838532f6f9f106263ecf37b1be1c371595ab978b6230c2ec"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed170/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed170/energy_target.json",
+    "sha256": "c6cc890313a2a27309d96052a9d6795fe339a4fd30432100f445f3ff703a285c"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed170/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed170/selection.json",
+    "sha256": "808db3bb03371953be32b27917cb915349d3feced20b00bad042e6cb4bf44bfd"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed170/active_random1_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed170/active_random1_10.csv",
+    "sha256": "7d5a5cfe091a43f6d6d8b9c1943a7f94ca396ad5416e3382719e6667913f7242"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed170/active_random2_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed170/active_random2_10.csv",
+    "sha256": "a102a94640fec23f32659ad63208f4c64723548c35d71f9f71a6e3773a57689d"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed171/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed171/scaffold_100.csv",
+    "sha256": "2fec8e91d39533ace0edf2da94343430ee795ff777b2e32d7b59b280a561269d"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed171/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed171/baseline_0.csv",
+    "sha256": "d2585858a7b87543060072cbf366fc8e042994cc4198d52d31e53452b949ad53"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed171/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed171/basis_construction.json",
+    "sha256": "a6d951eee947454df387a937e699744d5b31b38d728bfe99c6a85f8394b60b32"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed171/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed171/energy_target.json",
+    "sha256": "5e0e29739c39e5328512b47a08443feb01a9a20df549e34a359c6de12f6600d4"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed171/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed171/selection.json",
+    "sha256": "2d4122b75b5c7636448ec47b452b31b2706f7c3e0b071284372b24d7377cfdfe"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed171/active_random1_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed171/active_random1_10.csv",
+    "sha256": "1e326f66daadaf8ba4e7dfcf66fa1b2857a4e86bfa3c0b2d6331920ece22024e"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2131_seed171/active_random2_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2131_seed171/active_random2_10.csv",
+    "sha256": "7ce4fcf32b8fa14bfabdf82c7a725549e0938fea4c8f584b9f3d29ba00145f9c"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed170/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed170/scaffold_100.csv",
+    "sha256": "805071f3793653ecc7f61f221d15df677a85b1ed27d3ce2f7fe4852c26012735"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed170/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed170/baseline_0.csv",
+    "sha256": "4d5b2f92418aa622da7d3fb25edd4ee27310feb015a4283a4f3c1d5e8cc82c20"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed170/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed170/basis_construction.json",
+    "sha256": "47b56777dd58712f82e3c931a7f6c85137f70229ef64269520da749ddec3c47f"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed170/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed170/energy_target.json",
+    "sha256": "de882aebc7bc8571b2476fd49b73ecdb68b81a25878cd8e6b512992a569a1a6e"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed170/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed170/selection.json",
+    "sha256": "3294ef5476328beeb1c34a17d8040d98a9ff13954577610138409b267b94506e"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed170/active_random1_1.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed170/active_random1_1.csv",
+    "sha256": "cd30184a3253e535411e3e56b3229e27f0599d1136830cd1713450c2a515808a"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed170/active_random2_0.6881813793.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed170/active_random2_0.6881813793.csv",
+    "sha256": "fdc297224a0979fda4dae0e1aa0fa7ebd53fd4e1f01dd99d136fbbd9acad307b"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed171/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed171/scaffold_100.csv",
+    "sha256": "525544602169c3bc17d9a371ee74dc7add6367fcb6f07287df7886502330b01f"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed171/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed171/baseline_0.csv",
+    "sha256": "c0f85e2b8b49eeaabc96c7e3d7b6f0ea37a605b014b1e7e1002c450c1d2053a2"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed171/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed171/basis_construction.json",
+    "sha256": "a079568d10df3bf14272af4969154ffa4b2f8c46a5deeb884c513b4e444b8ed3"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed171/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed171/energy_target.json",
+    "sha256": "1dc988c44398288e34574343e9d88cb84d328aa51dd30f48eeb2f9f45fd9f4f2"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed171/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed171/selection.json",
+    "sha256": "309e222355426201f4b0da8865563ec7b8b8839d99032822258d61ad97e7a7a9"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed171/active_random1_3.221896373.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed171/active_random1_3.221896373.csv",
+    "sha256": "edfaf8673f2cafd69ff18bce9d307df42be20573c5e0f9636a66d3d972de43c4"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2137_seed171/active_random2_5.540033333.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2137_seed171/active_random2_5.540033333.csv",
+    "sha256": "f40c96b2cc7886ad5b8f10ee39e829efcaeede934231a7ac87428b18006e5e4d"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed170/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed170/scaffold_100.csv",
+    "sha256": "9b92ddf5e6cdd2a1030557abe2151ca48385d29091764f8728e74c113c0dae9d"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed170/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed170/baseline_0.csv",
+    "sha256": "621040e160dfb59edab7de11e68264dbbcf36399c6935934f7cc940279199e22"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed170/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed170/basis_construction.json",
+    "sha256": "593fc01d6ffe9d7b16fa3b657efc3971cce5062dee852cb0dc9e01ecced15c27"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed170/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed170/energy_target.json",
+    "sha256": "b67d6eb0e0d90a19870503971580d38643b923f11501836e844161c6d4f0a199"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed170/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed170/selection.json",
+    "sha256": "e598ee119bd501bb075e32d02f56eb224b50468419a8027910aaf1f899416f8f"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed170/active_random1_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed170/active_random1_10.csv",
+    "sha256": "5a3d47f98c50b180bb3ab237d8564c67bfd3563f36e0e83384e09e0328c51708"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed170/active_random2_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed170/active_random2_10.csv",
+    "sha256": "b70490dfd56dfccdc61af284f12df0c9ab75667b6819a73aaa1368959d93f82c"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed171/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/scaffold_100.csv",
+    "sha256": "7972f323128f075057abe3d624b7d0d05f142ca9878ed163f7ec708ff0502ede"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed171/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/baseline_0.csv",
+    "sha256": "885254370e6294aeb6ed9eb8bc871f4ff84b9cc6a44d932662c57ecc95d3ef51"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed171/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/basis_construction.json",
+    "sha256": "5f380f281d813b8d5635009c46b75924c7e2400661232496ca29ce97b8814655"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed171/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/energy_target.json",
+    "sha256": "174b280d009795197c5888ba27f132bb3ed7af976778b41eeb72b2f931f6d7d6"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed171/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/selection.json",
+    "sha256": "76bbb9aa9e5ed9a65625136e95a9d3a76a62113731c1449e12aea5f0b3e4160b"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed171/active_random1_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/active_random1_100.csv",
+    "sha256": "0d4bf7005dab85725a0f766a106b26a7dd35e9afd19dae143943d2b1e62a3145"
+  },
+  "data/energy_matched/mixer_b16_cifar10/order2141_seed171/active_random2_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar10/order2141_seed171/active_random2_10.csv",
+    "sha256": "b873ba6f5ce7f3e171b54355dc0c9c02af0efb441d0554ec48e5b9103efb79c3"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed150/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed150/scaffold_100.csv",
+    "sha256": "394b5a6c8ffe136bb560043743f8f04e524c16b8e3df09120e95541904a905c6"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed150/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed150/baseline_0.csv",
+    "sha256": "d28b07e771fd59cab40e5c5d80e27347ef6981b7ad1ddbddaa4dfe8cf36580a4"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed150/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed150/basis_construction.json",
+    "sha256": "ed4e8811b4f95d4aef2e5bec7e5052030b29275d890162a07a3724db092fc9a1"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed150/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed150/energy_target.json",
+    "sha256": "c300d63a0089e73953ecbaad9fe2e37dc0b0344e6722e552b5ceac11b686a975"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed150/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed150/selection.json",
+    "sha256": "3ee39be8468e06c0fa353d3230f1cf167729e60b8b353d754d0511e33b6e6d75"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed150/active_random1_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed150/active_random1_10.csv",
+    "sha256": "883513228d80c0a4e45607a1d9c06ef12e28cd675040d63fb8a53f11751d7903"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed150/active_random2_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed150/active_random2_10.csv",
+    "sha256": "7c43a66b369dccc590d3edaba4d5b821e37be725470f83e9e80fd88e0a544760"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed151/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/scaffold_100.csv",
+    "sha256": "798a9da7d8309a7eb6adcdacc04f55efccfd4ff8127f5f0012b9207c06a96522"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed151/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/baseline_0.csv",
+    "sha256": "ea495da438b85f79fca964c2603a89d1c9f962758d1acaf90d4f4a0bd429877f"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed151/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/basis_construction.json",
+    "sha256": "edc8c1ba93b0ab139c5d442f48a4fd2e7a0bbe8f02996113d4b50015049592d1"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed151/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/energy_target.json",
+    "sha256": "29897b08ef2492cb83df1f830b052d6c1b78c81e4cde3db597f59dcb35999fa4"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed151/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/selection.json",
+    "sha256": "2f4aa597b6a6357697ce0d4924fce75d780140fa78a9ba9a15d6d025362fabfc"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed151/active_random1_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/active_random1_10.csv",
+    "sha256": "8315a77098c3c88ddebf440ba8025898bb940efeca683a68256e7ed4f637b176"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1123_seed151/active_random2_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1123_seed151/active_random2_10.csv",
+    "sha256": "0ea03d869a36fb4cbe20c9d1981c7a5ff0580e80392b600ddf0b33ac5abdc2b0"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed150/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed150/scaffold_100.csv",
+    "sha256": "b8439976efe00923e73b6619a705c905ec9f363732c83b3d0757475b1f7bef4d"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed150/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed150/baseline_0.csv",
+    "sha256": "50e8d9cef839bdbe5a6df3c41131910d405cddae30ddc9e959a0d0932e15643f"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed150/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed150/basis_construction.json",
+    "sha256": "fdc9c40bcfd84c99b273163881cf93da0e4646633ee16f0f5d6b05b8ea9631bc"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed150/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed150/energy_target.json",
+    "sha256": "c0abfe49a7bbbcbb9098138c93151373d56c97b51b98f31b9a4f3d34b97a6d61"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed150/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed150/selection.json",
+    "sha256": "c9dafce09f4384fc4eb406397a7035f2ac5963a133a33204522a4a18665f3143"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed150/active_random1_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed150/active_random1_10.csv",
+    "sha256": "c8f270eacf508b07352546e1a4d3d03f8a365af007082bdeafbc32e9089db40c"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed150/active_random2_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed150/active_random2_10.csv",
+    "sha256": "2490ad19d4626748c07287e962fd4b9b3dd0e9c540e6793d648687a865ff9f1c"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed151/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed151/scaffold_100.csv",
+    "sha256": "5221a92b1868be4b60ef639b276612df467bb5fefde100f80908c993b8cd8f88"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed151/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed151/baseline_0.csv",
+    "sha256": "52152f0d9f0ff6ea1260ae2b9fcab4c32185f5505445d6f0bb4a2f438f19de1a"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed151/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed151/basis_construction.json",
+    "sha256": "83d6d251fe764a0c392411a73362bf0952f49b4b73dbc4e135f1688405c117a6"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed151/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed151/energy_target.json",
+    "sha256": "41c4060d595304ad6480c243f6d228bbadb186b010c285fd0a87dd5ca80c277d"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed151/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed151/selection.json",
+    "sha256": "01af298fa85113ff4c7b79b91ef23e9dd7d7249fdd9b9580e0c2fd074911468c"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed151/active_random1_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed151/active_random1_10.csv",
+    "sha256": "1e907f465698254e0ee269afa744ee553b8f79a421706ee77772b7e3107417c2"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1129_seed151/active_random2_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1129_seed151/active_random2_10.csv",
+    "sha256": "50e2f060c4517eb2dd1e8c50ed55289f31ab9cda31576f20c1987b9742ae0019"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed150/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed150/scaffold_100.csv",
+    "sha256": "37b821ad90e0115b17c7e016828acb5a4d97f935468cfd852d05d3c7f9452c28"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed150/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed150/baseline_0.csv",
+    "sha256": "fe31fbac0477eb661441f460b2de060021a21e08a9ae96ec07bdba65eb4da3b6"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed150/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed150/basis_construction.json",
+    "sha256": "a00755b9caa859d100a3a5d353d5f5cf85a5514805bf8e0ff2ed889ec07e174e"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed150/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed150/energy_target.json",
+    "sha256": "f81694441ab59533e2b9daba0d55fcf6843e26a4d07fc5e6b740c1732de8dcb5"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed150/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed150/selection.json",
+    "sha256": "c769d83ba1e24dd1177bfb81580ef3bd70964322b8ac76d8f8a3a1f48d06876b"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed150/active_random1_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed150/active_random1_10.csv",
+    "sha256": "83647d49c6341d164cfecf13dd2e0eb7debd52ec801f183e6c1bccc3567ef75c"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed150/active_random2_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed150/active_random2_10.csv",
+    "sha256": "b5056a225ddd7f91e85401c7b0c3a812ad048ebfabd66667efe1cd89222fd6de"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed151/scaffold_100.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed151/scaffold_100.csv",
+    "sha256": "1daab2f8742e29e4d5daedde29a4727b750119042775966269520aabefdf51de"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed151/baseline_0.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed151/baseline_0.csv",
+    "sha256": "29290d89a2aefbb0b5fb4a372b29015291fb3a5adc9610fb4a7493319e69edbf"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed151/basis_construction.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed151/basis_construction.json",
+    "sha256": "945daaa2a322a9ec48388e4faf6526b50d82c28d10b837a1b74b8594de93e18b"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed151/energy_target.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed151/energy_target.json",
+    "sha256": "21d4ca72119f671345235cf9ee097f5f693b114c65a18f1f01074d6db08a2cbb"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed151/selection.json": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed151/selection.json",
+    "sha256": "0e58f9ecbd24171ea52f601b8a1d66380874ccb7b44cfd5b8fcdfc797d8ec568"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed151/active_random1_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed151/active_random1_10.csv",
+    "sha256": "5ed6f2ffa84c8119f42cab1341ec39badf5c7a2fb08503014bb6d608bb815ec1"
+  },
+  "data/energy_matched/mixer_b16_cifar100/order1151_seed151/active_random2_10.csv": {
+    "source": "results/mixer_lambda100_energy_matched/mixer_b16_cifar100/order1151_seed151/active_random2_10.csv",
+    "sha256": "680e0e6b79aa819fdc83736b2fe3724a9f53f891a8e8f19f0be3ca888be81529"
+  },
+  "data/energy_matched/records.json": {
+    "source": "combined selected records with package-relative paths",
+    "sha256": "56b59f7ba8f3f002794c3ce355d2a117727e214d9dcfd12db47c3f66d859079f"
+  }
+}
